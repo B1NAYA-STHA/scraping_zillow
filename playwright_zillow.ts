@@ -13,6 +13,7 @@ import { chromium } from "playwright";
         const property = json?.data?.property;
         if (property) {
           const zpid = property.zpid;
+          const price = property.price;
           let address = "";
 
           const addr = property.address;
@@ -21,6 +22,7 @@ import { chromium } from "playwright";
           
           console.log("Property Found:");
           console.log("ZPID:", zpid);
+          console.log("Price:", price); 
           console.log("Address:", address);
         }
       } catch (err) {
