@@ -1,0 +1,99 @@
+https://www.zillow.com/async-create-search-page-state
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22cce514905b94302e0426fe244db8a6e1d7d89200bdbe78a15d8010c6f93c6c89%22%7D%7D&variables=%7B%22zpid%22%3A%2241105109%22%7D
+- gives climate info 
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22e8a54eccdc3e2d70a05571d391b42449c6ec21807aa5d15b81c3bee3261ab3bd%22%7D%7D&variables=%7B%22agentId%22%3A%22xXIO5Y3hTmi8Gw4hB5LaKQ%22%7D
+-gives agent info
+
+https://www.zillow.com/graphql/?zpid=41105109&operationName=WalkTransitAndBikeScoreQuery
+-gives walk and bike score
+
+https://www.zillow.com/zg-graph?zpid=41105109&supportedNavActions=URL_REDIRECT&operationName=getAffordabilityEstimateFromMonthlyHub
+-payment breakdown info
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%222ba838d57daf2ab1914ea158ad26c17c5f8137cad569008a9d31c11bcadc6ce6%22%7D%7D&variables=%7B%22zpid%22%3A331679024%2C%22platform%22%3A%22DESKTOP_WEB%22%2C%22formType%22%3A%22OPAQUE%22%2C%22contactFormRenderParameter%22%3A%7B%22zpid%22%3A331679024%2C%22platform%22%3A%22desktop%22%2C%22isDoubleScroll%22%3Atrue%7D%2C%22skipCFRD%22%3Afalse%2C%22submitFlowRequestSource%22%3Anull%7D
+-most of the details
+property data
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22e9a13cc2faf0c092c4502929d745053e5b6c1ec322db210d39edfdbb6c0a2278%22%7D%7D&variables=%7B%22zpid%22%3A%2241105109%22%2C%22zillowPlatform%22%3A%22DESKTOP%22%2C%22altId%22%3Anull%7D
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2233c957c0d843e8761ca233c4338859534d8ffe8bd0a312db682e79d88fe82e53%22%7D%7D&variables=%7B%22zpid%22%3A331679024%2C%22platform%22%3A%22DESKTOP_WEB%22%2C%22formType%22%3A%22OPAQUE%22%2C%22contactFormRenderParameter%22%3A%7B%22zpid%22%3A331679024%2C%22platform%22%3A%22desktop%22%2C%22isDoubleScroll%22%3Atrue%7D%2C%22skipCFRD%22%3Afalse%2C%22submitFlowRequestSource%22%3Anull%2C%22includeOmpCtaButtons%22%3Atrue%2C%22ompDeviceType%22%3A%22WEB_DESKTOP%22%7D
+-includes price history/tax hitory and other details as well 
+
+
+Home stauts: active
+Address: 2437 Eastland Ave, Nashville, TN 37206
+
+Price: $985,000
+est.payment: $5570/mo
+price/sqft: $420
+Area: 0.76 acres
+Build date: 1960
+
+Descriptions: ...
+
+
+agent info such as names, picture, reviews and contact info
+
+info like how long it has been listed, total views and saves
+
+MLS info: property id in MLS
+listing update info
+
+photos, floor plans, 3D view
+
+features: 
+
+    interior:
+        bedroom and bathrooms
+        heating, cooling,
+        appliances
+        features
+        interior Area
+    
+    property:
+        parking
+        lot
+        features
+        details
+
+    construction:
+        type & style
+        materials
+        condition
+    
+    utilities& green energy:
+        sewer, water, utilities
+
+    community & HOA
+
+    financial & listing details:
+
+price history : in table
+public tax histoy: in table
+
+buyabilty paytment: info on breakdown of estimated payment monthly
+
+climate risk and flood zone info
+
+walk score and bike score: 
+
+info on nearbyschools
+
+nearby cities, nearby neighbourhoods, nearby zip codes
+
+
+
+
+https://www.zillow.com/homedetails/816-Shelby-Ave-Nashville-TN-37206/296610734_zpid/
+
+
+
+-some of the property ko yo call hunxa
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22cce514905b94302e0426fe244db8a6e1d7d89200bdbe78a15d8010c6f93c6c89%22%7D%7D&variables=%7B%22zpid%22%3A%22undefined%22%7D
+
+https://www.zillow.com/graphql/?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22e9a13cc2faf0c092c4502929d745053e5b6c1ec322db210d39edfdbb6c0a2278%22%7D%7D&variables=%7B%22zpid%22%3A%22296610734%22%2C%22zillowPlatform%22%3A%22DESKTOP%22%2C%22altId%22%3Anull%7D
+
+
+296610734
