@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "axios": "^1.13.2",
+    "camoufox-js": "^0.8.4",
     "path": "^0.12.7"
   },
   "devDependencies": {
