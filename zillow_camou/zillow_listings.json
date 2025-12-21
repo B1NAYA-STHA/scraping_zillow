@@ -1,0 +1,4932 @@
+[
+  {
+    "URL": "https://www.zillow.com/homedetails/4921-Rupert-Ave-Encino-CA-91316/19950021_zpid/",
+    "Address": "4921 Rupert Ave, Encino, CA 91316",
+    "Price": "$1,799,999",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2916,
+    "Image": "https://photos.zillowstatic.com/fp/12bb10e7c2847fd82868cb8c4174efd8-p_e.jpg",
+    "ZPID": "19950021"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14521-Benefit-St-UNIT-307-Sherman-Oaks-CA-91403/19988552_zpid/",
+    "Address": "14521 Benefit St UNIT 307, Sherman Oaks, CA 91403",
+    "Price": "$999,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1803,
+    "Image": "https://photos.zillowstatic.com/fp/33827c8a838c4b075927dbf199c21ec1-p_e.jpg",
+    "ZPID": "19988552"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1713-247th-Pl-Lomita-CA-90717/21280209_zpid/",
+    "Address": "1713 247th Pl, Lomita, CA 90717",
+    "Price": "$1,249,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1939,
+    "Image": "https://photos.zillowstatic.com/fp/24103b01578fc0006334c8c20dc804a1-p_e.jpg",
+    "ZPID": "21280209"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3947-Sumac-Dr-Sherman-Oaks-CA-91403/19987832_zpid/",
+    "Address": "3947 Sumac Dr, Sherman Oaks, CA 91403",
+    "Price": "$1,995,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 3192,
+    "Image": "https://photos.zillowstatic.com/fp/fbd34ad1f152b7b23663fbce95fa4141-p_e.jpg",
+    "ZPID": "19987832"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13691-Gavina-Ave-UNIT-574-Sylmar-CA-91342/136709683_zpid/",
+    "Address": "13691 Gavina Ave UNIT 574, Sylmar, CA 91342",
+    "Price": "$354,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1652,
+    "Image": "https://photos.zillowstatic.com/fp/220ef11e3bcdfe9a1f4d4903663dd7cf-p_e.jpg",
+    "ZPID": "136709683"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1420-Davies-Dr-Beverly-Hills-CA-90210/20523735_zpid/",
+    "Address": "1420 Davies Dr, Beverly Hills, CA 90210",
+    "Price": "$69,995,000",
+    "Beds": 8,
+    "Baths": 14,
+    "Area": 21800,
+    "Image": "https://photos.zillowstatic.com/fp/2b3c3690c420079e0e21a8b8214ce6b8-p_e.jpg",
+    "ZPID": "20523735"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1261-Angelo-Dr-Beverly-Hills-CA-90210/95547747_zpid/",
+    "Address": "1261 Angelo Dr, Beverly Hills, CA 90210",
+    "Price": "$175,000,000",
+    "Beds": 16,
+    "Baths": 27,
+    "Area": 50000,
+    "Image": "https://photos.zillowstatic.com/fp/6156ec1b0682986522be5230fb575a51-p_e.jpg",
+    "ZPID": "95547747"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2304-Donella-Cir-Los-Angeles-CA-90077/20531011_zpid/",
+    "Address": "2304 Donella Cir, Los Angeles, CA 90077",
+    "Price": "$18,500,000",
+    "Beds": 8,
+    "Baths": 11,
+    "Area": 11500,
+    "Image": "https://photos.zillowstatic.com/fp/7ef15b028de6011b107222a040ca7bd2-p_e.jpg",
+    "ZPID": "20531011"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13187-Chalon-Rd-Los-Angeles-CA-90049/20558959_zpid/",
+    "Address": "13187 Chalon Rd, Los Angeles, CA 90049",
+    "Price": "$24,389,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 14000,
+    "Image": "https://photos.zillowstatic.com/fp/0eeb43fd863b9c76729029f621ade63b-p_e.jpg",
+    "ZPID": "20558959"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2111-Wollam-St-Los-Angeles-CA-90065/20757817_zpid/",
+    "Address": "2111 Wollam St, Los Angeles, CA 90065",
+    "Price": "$1,450,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1675,
+    "Image": "https://photos.zillowstatic.com/fp/3b9c8d94b4a7465f2aa45cdf7928c1fb-p_e.jpg",
+    "ZPID": "20757817"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/73-Beverly-Park-Ln-Beverly-Hills-CA-90210/20533547_zpid/",
+    "Address": "73 Beverly Park Ln, Beverly Hills, CA 90210",
+    "Price": "$79,990,000",
+    "Beds": 9,
+    "Baths": 22,
+    "Area": 28500,
+    "Image": "https://photos.zillowstatic.com/fp/815eb4d86844a8f1c3dfe2ae2b66aeee-p_e.jpg",
+    "ZPID": "20533547"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6324-Grape-Pl-Los-Angeles-CA-90068/20807081_zpid/",
+    "Address": "6324 Grape Pl, Los Angeles, CA 90068",
+    "Price": "$1,295,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 2383,
+    "Image": "https://photos.zillowstatic.com/fp/81d204a1cf5001853c8aea779b5412a8-p_e.jpg",
+    "ZPID": "20807081"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9126-Cordell-Dr-Los-Angeles-CA-90069/20799248_zpid/",
+    "Address": "9126 Cordell Dr, Los Angeles, CA 90069",
+    "Price": "$85,000,000",
+    "Beds": 4,
+    "Baths": 7,
+    "Area": 23894,
+    "Image": "https://photos.zillowstatic.com/fp/0935ec7d3978249a8636dcf37bac81e3-p_e.jpg",
+    "ZPID": "20799248"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3099-Mandeville-Canyon-Rd-Los-Angeles-CA-90049/110283679_zpid/",
+    "Address": "3099 Mandeville Canyon Rd, Los Angeles, CA 90049",
+    "Price": "$70,000,000",
+    "Beds": 9,
+    "Baths": 15,
+    "Area": 20000,
+    "Image": "https://photos.zillowstatic.com/fp/349c3ea3d073f99df0e141ccbb1655a6-p_e.jpg",
+    "ZPID": "110283679"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1851-N-Stanley-Ave-Los-Angeles-CA-90046/20795085_zpid/",
+    "Address": "1851 N Stanley Ave, Los Angeles, CA 90046",
+    "Price": "$36,800,000",
+    "Beds": 6,
+    "Baths": 10,
+    "Area": 13000,
+    "Image": "https://photos.zillowstatic.com/fp/c4f706efff17c52136870141a58ace1e-p_e.jpg",
+    "ZPID": "20795085"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2372-Kenilworth-Ave-Los-Angeles-CA-90039/20752663_zpid/",
+    "Address": "2372 Kenilworth Ave, Los Angeles, CA 90039",
+    "Price": "$1,988,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2153,
+    "Image": "https://photos.zillowstatic.com/fp/f5b1a8cd6588f650fb2fcbab03696fce-p_e.jpg",
+    "ZPID": "20752663"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11630-Bellagio-Rd-Los-Angeles-CA-90049/20528755_zpid/",
+    "Address": "11630 Bellagio Rd, Los Angeles, CA 90049",
+    "Price": "$3,200,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 3201,
+    "Image": "https://photos.zillowstatic.com/fp/c946ae231f75c9e841a16fed417e8d48-p_e.jpg",
+    "ZPID": "20528755"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/250-S-Chadbourne-Ave-Los-Angeles-CA-90049/119680363_zpid/",
+    "Address": "250 S Chadbourne Ave, Los Angeles, CA 90049",
+    "Price": "$14,900,000",
+    "Beds": 4,
+    "Baths": 6,
+    "Area": 4072,
+    "Image": "https://photos.zillowstatic.com/fp/103c273758eee41bae071b9b0961eef9-p_e.jpg",
+    "ZPID": "119680363"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12833-Chalon-Rd-Los-Angeles-CA-90049/20559456_zpid/",
+    "Address": "12833 Chalon Rd, Los Angeles, CA 90049",
+    "Price": "$49,500,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 9960,
+    "Image": "https://photos.zillowstatic.com/fp/26819a9ac1fee12b59817fbb13c11974-p_e.jpg",
+    "ZPID": "20559456"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10066-Cielo-Dr-Beverly-Hills-CA-90210/243990393_zpid/",
+    "Address": "10066 Cielo Dr, Beverly Hills, CA 90210",
+    "Price": "$49,950,000",
+    "Beds": 9,
+    "Baths": 18,
+    "Area": 21000,
+    "Image": "https://photos.zillowstatic.com/fp/2d1124df2ade0a54b11b5b7d489db828-p_e.jpg",
+    "ZPID": "243990393"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/24303-Woolsey-Canyon-Rd-SPACE-5-Canoga-Park-CA-91304/136702200_zpid/",
+    "Address": "24303 Woolsey Canyon Rd SPACE 5, Canoga Park, CA 91304",
+    "Price": "$99,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1440,
+    "Image": "https://photos.zillowstatic.com/fp/13e7fece59228c2d901f7608260f437e-p_e.jpg",
+    "ZPID": "136702200"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15043-Oro-Grande-St-Sylmar-CA-91342/20106648_zpid/",
+    "Address": "15043 Oro Grande St, Sylmar, CA 91342",
+    "Price": "$549,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 888,
+    "Image": "https://photos.zillowstatic.com/fp/f36a4705b69f8936cb554197b132fbb4-p_e.jpg",
+    "ZPID": "20106648"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/250-N-Carolwood-Dr-Los-Angeles-CA-90077/20523958_zpid/",
+    "Address": "250 N Carolwood Dr, Los Angeles, CA 90077",
+    "Price": "$49,995,000",
+    "Beds": 9,
+    "Baths": 15,
+    "Area": 16305,
+    "Image": "https://photos.zillowstatic.com/fp/128f6857893b08e16211366a40d020e6-p_e.jpg",
+    "ZPID": "20523958"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8103-Lullaby-Ln-Panorama-City-CA-91402/19956079_zpid/",
+    "Address": "8103 Lullaby Ln, Panorama City, CA 91402",
+    "Price": "$599,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1037,
+    "Image": "https://photos.zillowstatic.com/fp/0a7969b1e5e6fc16aade2d1c15a7abbb-p_e.jpg",
+    "ZPID": "19956079"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10404-Margate-St-North-Hollywood-CA-91601/20041323_zpid/",
+    "Address": "10404 Margate St, North Hollywood, CA 91601",
+    "Price": "$1,199,991",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1512,
+    "Image": "https://photos.zillowstatic.com/fp/890b66825a6da9ac3aebd5f66fcaa36c-p_e.jpg",
+    "ZPID": "20041323"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1632-Oak-Grove-Dr-Los-Angeles-CA-90041/20852632_zpid/",
+    "Address": "1632 Oak Grove Dr, Los Angeles, CA 90041",
+    "Price": "$1,499,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1756,
+    "Image": "https://photos.zillowstatic.com/fp/ca3db26c2e4affaeeffc2b13a022eb06-p_e.jpg",
+    "ZPID": "20852632"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/701-Nimes-Rd-Los-Angeles-CA-90077/20526862_zpid/",
+    "Address": "701 Nimes Rd, Los Angeles, CA 90077",
+    "Price": "$39,995,000",
+    "Beds": 7,
+    "Baths": 10,
+    "Area": 11050,
+    "Image": "https://photos.zillowstatic.com/fp/8ac10727eac4063d918e2380f64e55a0-p_e.jpg",
+    "ZPID": "20526862"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1663-Summitridge-Dr-Beverly-Hills-CA-90210/20523029_zpid/",
+    "Address": "1663 Summitridge Dr, Beverly Hills, CA 90210",
+    "Price": "$14,995,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 7321,
+    "Image": "https://photos.zillowstatic.com/fp/e75f4d70ff4fdd1dccff09d0f2cb67f6-p_e.jpg",
+    "ZPID": "20523029"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9279-Sierra-Mar-Dr-Los-Angeles-CA-90069/20534808_zpid/",
+    "Address": "9279 Sierra Mar Dr, Los Angeles, CA 90069",
+    "Price": "$4,695,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 2231,
+    "Image": "https://photos.zillowstatic.com/fp/f1aa08e85880e43612b9d2e298a591f0-p_e.jpg",
+    "ZPID": "20534808"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8383-Wyndham-Rd-Los-Angeles-CA-90046/20801562_zpid/",
+    "Address": "8383 Wyndham Rd, Los Angeles, CA 90046",
+    "Price": "$1,699,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2550,
+    "Image": "https://photos.zillowstatic.com/fp/2a8f57d4613c05407dcd5f78d25f8650-p_e.jpg",
+    "ZPID": "20801562"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9214-Nightingale-Dr-Los-Angeles-CA-90069/2107527769_zpid/",
+    "Address": "9214 Nightingale Dr, Los Angeles, CA 90069",
+    "Price": "$57,000,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 13870,
+    "Image": "https://photos.zillowstatic.com/fp/18c6eb6ca6c56da3e07e1e40e8713aac-p_e.jpg",
+    "ZPID": "2107527769"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1475-Bel-Air-Rd-Los-Angeles-CA-90077/20529571_zpid/",
+    "Address": "1475 Bel Air Rd, Los Angeles, CA 90077",
+    "Price": "$15,999,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 12027,
+    "Image": "https://photos.zillowstatic.com/fp/3a9efe49de840efdee56d8bfd584ceac-p_e.jpg",
+    "ZPID": "20529571"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1130-Westchester-Pl-Los-Angeles-CA-90019/82872705_zpid/",
+    "Address": "1130 Westchester Pl, Los Angeles, CA 90019",
+    "Price": "$3,695,000",
+    "Beds": 6,
+    "Baths": 5,
+    "Area": 9735,
+    "Image": "https://photos.zillowstatic.com/fp/96dbf7a9121d0c51071651f1248cb9f0-p_e.jpg",
+    "ZPID": "82872705"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1026-Corsica-Dr-Pacific-Palisades-CA-90272/20538945_zpid/",
+    "Address": "1026 Corsica Dr, Pacific Palisades, CA 90272",
+    "Price": "$13,900,000",
+    "Beds": 5,
+    "Baths": 9,
+    "Area": 7848,
+    "Image": "https://photos.zillowstatic.com/fp/2fbfcbc1c29e01eae4fb8c96341ac732-p_e.jpg",
+    "ZPID": "20538945"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8061-Woodland-Ln-Los-Angeles-CA-90046/20801987_zpid/",
+    "Address": "8061 Woodland Ln, Los Angeles, CA 90046",
+    "Price": "$1,999,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1324,
+    "Image": "https://photos.zillowstatic.com/fp/d0c5f17417cbe561786ac88e21a25a3e-p_e.jpg",
+    "ZPID": "20801987"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1204-Chickory-Ln-Los-Angeles-CA-90049/20559712_zpid/",
+    "Address": "1204 Chickory Ln, Los Angeles, CA 90049",
+    "Price": "$38,000,000",
+    "Beds": 9,
+    "Baths": 16,
+    "Image": "https://photos.zillowstatic.com/fp/efb49f86a801f4a5cb2d2dd09dfd89c1-p_e.jpg",
+    "ZPID": "20559712"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2400-Inverness-Ave-Los-Angeles-CA-90027/20809434_zpid/",
+    "Address": "2400 Inverness Ave, Los Angeles, CA 90027",
+    "Price": "$10,985,000",
+    "Beds": 6,
+    "Baths": 11,
+    "Area": 10472,
+    "Image": "https://photos.zillowstatic.com/fp/dd9ec7bd4fc59bd018901cb9b00dbef8-p_e.jpg",
+    "ZPID": "20809434"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/966-Stone-Canyon-Rd-Los-Angeles-CA-90077/20529601_zpid/",
+    "Address": "966 Stone Canyon Rd, Los Angeles, CA 90077",
+    "Price": "$19,500,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 8800,
+    "Image": "https://photos.zillowstatic.com/fp/a0d930a31c076f08dc7741a160716e2f-p_e.jpg",
+    "ZPID": "20529601"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1016-Indiana-Ct-Venice-CA-90291/20453674_zpid/",
+    "Address": "1016 Indiana Ct, Venice, CA 90291",
+    "Price": "$2,100,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1367,
+    "Image": "https://photos.zillowstatic.com/fp/e92a5abc2fb639de2b159d311bffffe2-p_e.jpg",
+    "ZPID": "20453674"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/765-N-Bonhill-Rd-Los-Angeles-CA-90049/20560196_zpid/",
+    "Address": "765 N Bonhill Rd, Los Angeles, CA 90049",
+    "Price": "$14,500,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Image": "https://photos.zillowstatic.com/fp/3107ebc96ee759f435cc5eed96de6d0d-p_e.jpg",
+    "ZPID": "20560196"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1615-Blue-Jay-Way-West-Hollywood-CA-90069/447601316_zpid/",
+    "Address": "1615 Blue Jay Way, West Hollywood, CA 90069",
+    "Price": "$22,500,000",
+    "Beds": 5,
+    "Baths": 9,
+    "Area": 12049,
+    "Image": "https://photos.zillowstatic.com/fp/7705b9be27eca6d24327b5ed297393a4-p_e.jpg",
+    "ZPID": "447601316"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1550-Amalfi-Dr-Pacific-Palisades-CA-90272/20546420_zpid/",
+    "Address": "1550 Amalfi Dr, Pacific Palisades, CA 90272",
+    "Price": "$36,995,000",
+    "Beds": 8,
+    "Baths": 12,
+    "Area": 16773,
+    "Image": "https://photos.zillowstatic.com/fp/adb2c0f4b469d09c64f9d591dda1584c-p_e.jpg",
+    "ZPID": "20546420"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2010-Workman-St-Los-Angeles-CA-90031/20638247_zpid/",
+    "Address": "2010 Workman St, Los Angeles, CA 90031",
+    "Price": "$599,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 918,
+    "Image": "https://photos.zillowstatic.com/fp/8d9cae4ed4c618fd9171e7cec1021f87-p_e.jpg",
+    "ZPID": "20638247"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1625-Summitridge-Dr-Beverly-Hills-CA-90210/20523031_zpid/",
+    "Address": "1625 Summitridge Dr, Beverly Hills, CA 90210",
+    "Price": "$33,500,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 19000,
+    "Image": "https://photos.zillowstatic.com/fp/284d8f68063e74ec7513b21002da2ac0-p_e.jpg",
+    "ZPID": "20523031"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/934-S-Mott-St-Los-Angeles-CA-90023/20634780_zpid/",
+    "Address": "934 S Mott St, Los Angeles, CA 90023",
+    "Price": "$399,500",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1980,
+    "Image": "https://photos.zillowstatic.com/fp/2bd45fdd0fed6e75b4a8751bc6af8eca-p_e.jpg",
+    "ZPID": "20634780"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22137-Ybarra-Rd-Woodland-Hills-CA-91364/19944090_zpid/",
+    "Address": "22137 Ybarra Rd, Woodland Hills, CA 91364",
+    "Price": "$900,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1360,
+    "Image": "https://photos.zillowstatic.com/fp/eb19feac377d82699a04fb88b06326ac-p_e.jpg",
+    "ZPID": "19944090"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3977-Oeste-Ave-Studio-City-CA-91604/20032520_zpid/",
+    "Address": "3977 Oeste Ave, Studio City, CA 91604",
+    "Price": "$2,995,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 3190,
+    "Image": "https://photos.zillowstatic.com/fp/6aa764bc8a94ee95dcf92648b81fdf8e-p_e.jpg",
+    "ZPID": "20032520"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/21108-Mayall-St-Chatsworth-CA-91311/20171908_zpid/",
+    "Address": "21108 Mayall St, Chatsworth, CA 91311",
+    "Price": "$999,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1844,
+    "Image": "https://photos.zillowstatic.com/fp/78487f97603f7ed17e59b7e28777f0dc-p_e.jpg",
+    "ZPID": "20171908"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/19432-Romar-St-Northridge-CA-91324/20164808_zpid/",
+    "Address": "19432 Romar St, Northridge, CA 91324",
+    "Price": "$1,375,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2554,
+    "Image": "https://photos.zillowstatic.com/fp/4cf391253fde88cd0d7ecdee198c0f3f-p_e.jpg",
+    "ZPID": "20164808"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20620-Chatsboro-Dr-Woodland-Hills-CA-91364/19946270_zpid/",
+    "Address": "20620 Chatsboro Dr, Woodland Hills, CA 91364",
+    "Price": "$12,750,000",
+    "Beds": 7,
+    "Baths": 10,
+    "Area": 10550,
+    "Image": "https://photos.zillowstatic.com/fp/fa65ee2e0af795693b26b588cd7327f3-p_e.jpg",
+    "ZPID": "19946270"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12705-Chalon-Rd-Los-Angeles-CA-90049/20559449_zpid/",
+    "Address": "12705 Chalon Rd, Los Angeles, CA 90049",
+    "Price": "$49,500,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 11449,
+    "Image": "https://photos.zillowstatic.com/fp/196a0272d39ec4b981f05ecee747c4ab-p_e.jpg",
+    "ZPID": "20559449"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5711-Marmion-Way-Los-Angeles-CA-90042/450778096_zpid/",
+    "Address": "5711 Marmion Way, Los Angeles, CA 90042",
+    "Price": "$799,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1288,
+    "Image": "https://photos.zillowstatic.com/fp/6c44da9a1e36a27338906fe446122f02-p_e.jpg",
+    "ZPID": "450778096"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/729-Bel-Air-Rd-Los-Angeles-CA-90077/243991671_zpid/",
+    "Address": "729 Bel Air Rd, Los Angeles, CA 90077",
+    "Price": "$95,000,000",
+    "Beds": 9,
+    "Baths": 20,
+    "Area": 18784,
+    "Image": "https://photos.zillowstatic.com/fp/81a2da8245f92202fdc0bbbdfcde2899-p_e.jpg",
+    "ZPID": "243991671"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20553-Califa-St-Woodland-Hills-CA-91367/19931767_zpid/",
+    "Address": "20553 Califa St, Woodland Hills, CA 91367",
+    "Price": "$1,899,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2214,
+    "Image": "https://photos.zillowstatic.com/fp/13ba41fbbb42e3f3b83bcaa2a21f9f2d-p_e.jpg",
+    "ZPID": "19931767"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/455-Lorraine-Blvd-Los-Angeles-CA-90020/20774333_zpid/",
+    "Address": "455 Lorraine Blvd, Los Angeles, CA 90020",
+    "Price": "$12,888,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 9329,
+    "Image": "https://photos.zillowstatic.com/fp/e99660bc94af95b25c494c14908d2eac-p_e.jpg",
+    "ZPID": "20774333"
+  },
+  {
+    "URL": "https://www.zillow.com/b/18530-hatteras-st-tarzana-ca-5Xnx99/",
+    "Address": "18530 Hatteras St, Tarzana, CA",
+    "Price": "From $275,000",
+    "Image": "https://photos.zillowstatic.com/fp/7e5ebd8eb02b433a5a0f163bd222b41f-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9051-Laurel-Canyon-Blvd-SPACE-7-Sun-Valley-CA-91352/136688178_zpid/",
+    "Address": "9051 Laurel Canyon Blvd SPACE 7, Sun Valley, CA 91352",
+    "Price": "$129,999",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1040,
+    "Image": "https://photos.zillowstatic.com/fp/8531df911f2ba3db4a411a1b23c81e50-p_e.jpg",
+    "ZPID": "136688178"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/259-Saint-Pierre-Rd-Los-Angeles-CA-90077/20526918_zpid/",
+    "Address": "259 Saint Pierre Rd, Los Angeles, CA 90077",
+    "Price": "$24,997,500",
+    "Beds": 8,
+    "Baths": 12,
+    "Area": 0,
+    "Image": "https://photos.zillowstatic.com/fp/6578b2ab0e9c1c6558ce8b5eaed59b2d-p_e.jpg",
+    "ZPID": "20526918"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/825-Palms-Blvd-Venice-CA-90291/20451921_zpid/",
+    "Address": "825 Palms Blvd, Venice, CA 90291",
+    "Price": "$9,980,000",
+    "Beds": 7,
+    "Baths": 7,
+    "Area": 5800,
+    "Image": "https://photos.zillowstatic.com/fp/8324632f56095a120b231769324c9336-p_e.jpg",
+    "ZPID": "20451921"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/24425-Woolsey-Canyon-Rd-SPACE-114-Canoga-Park-CA-91304/136702430_zpid/",
+    "Address": "24425 Woolsey Canyon Rd SPACE 114, Canoga Park, CA 91304",
+    "Price": "$199,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1792,
+    "Image": "https://photos.zillowstatic.com/fp/8c803f98372b9373d5b05997cbb0a0fe-p_e.jpg",
+    "ZPID": "136702430"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5751-Valley-Oak-Dr-Los-Angeles-CA-90068/20808255_zpid/",
+    "Address": "5751 Valley Oak Dr, Los Angeles, CA 90068",
+    "Price": "$4,850,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4185,
+    "Image": "https://photos.zillowstatic.com/fp/bfbff3f0536e106d4c697fad77d25a0f-p_e.jpg",
+    "ZPID": "20808255"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1501-W-53rd-St-Los-Angeles-CA-90062/20562342_zpid/",
+    "Address": "1501 W 53rd St, Los Angeles, CA 90062",
+    "Price": "$599,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 2359,
+    "Image": "https://photos.zillowstatic.com/fp/d9afc9e7d2226ab683abcd9702e474cb-p_e.jpg",
+    "ZPID": "20562342"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3941-Pacheco-Dr-Sherman-Oaks-CA-91403/250216659_zpid/",
+    "Address": "3941 Pacheco Dr, Sherman Oaks, CA 91403",
+    "Price": "$579,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4800,
+    "Image": "https://photos.zillowstatic.com/fp/29335409c987c6da167ca49c662c8c76-p_e.jpg",
+    "ZPID": "250216659"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4800-S-La-Villa-Marina-UNIT-F-Marina-Del-Rey-CA-90292/444590004_zpid/",
+    "Address": "4800 S La Villa Marina UNIT F, Marina Del Rey, CA 90292",
+    "Price": "$1,199,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1582,
+    "Image": "https://photos.zillowstatic.com/fp/c3b3f0d4f62db4724cb2455f17bbfc57-p_e.jpg",
+    "ZPID": "444590004"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8544-Noble-Ave-North-Hills-CA-91343/20134759_zpid/",
+    "Address": "8544 Noble Ave, North Hills, CA 91343",
+    "Price": "$699,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1193,
+    "Image": "https://photos.zillowstatic.com/fp/b61f3970203520b4a89a5b0edd46a2a6-p_e.jpg",
+    "ZPID": "20134759"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2911-Antelo-View-Dr-Los-Angeles-CA-90077/20530837_zpid/",
+    "Address": "2911 Antelo View Dr, Los Angeles, CA 90077",
+    "Price": "$35,500,000",
+    "Beds": 9,
+    "Baths": 14,
+    "Area": 15360,
+    "Image": "https://photos.zillowstatic.com/fp/5b4c75daa942a7e60ed2d295cc345e23-p_e.jpg",
+    "ZPID": "20530837"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8556-Ridpath-Dr-Los-Angeles-CA-90046/20801660_zpid/",
+    "Address": "8556 Ridpath Dr, Los Angeles, CA 90046",
+    "Price": "$2,195,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1755,
+    "Image": "https://photos.zillowstatic.com/fp/3b5a2b935290b9ff2a35d7876686dd5c-p_e.jpg",
+    "ZPID": "20801660"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10215-Casaba-Ave-Chatsworth-CA-91311/20169886_zpid/",
+    "Address": "10215 Casaba Ave, Chatsworth, CA 91311",
+    "Price": "$1,189,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 2439,
+    "Image": "https://photos.zillowstatic.com/fp/f1e9df5d7a052fedfc160d094d01404e-p_e.jpg",
+    "ZPID": "20169886"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3006-Vista-Crest-Dr-Los-Angeles-CA-90068/20045908_zpid/",
+    "Address": "3006 Vista Crest Dr, Los Angeles, CA 90068",
+    "Price": "$1,275,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2411,
+    "Image": "https://photos.zillowstatic.com/fp/1631d8e1ace15f4040d0633c7f059710-p_e.jpg",
+    "ZPID": "20045908"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20800-Clark-St-Woodland-Hills-CA-91367/19932204_zpid/",
+    "Address": "20800 Clark St, Woodland Hills, CA 91367",
+    "Price": "$894,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1572,
+    "Image": "https://photos.zillowstatic.com/fp/c7378f1b1882635ae6286a737ef12468-p_e.jpg",
+    "ZPID": "19932204"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3307-Bonnie-Hill-Dr-Los-Angeles-CA-90068/20044959_zpid/",
+    "Address": "3307 Bonnie Hill Dr, Los Angeles, CA 90068",
+    "Price": "$3,895,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2839,
+    "Image": "https://photos.zillowstatic.com/fp/b5ed520e1e017c9177336e7b68390e82-p_e.jpg",
+    "ZPID": "20044959"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3480-Mandeville-Canyon-Rd-Los-Angeles-CA-90049/20558571_zpid/",
+    "Address": "3480 Mandeville Canyon Rd, Los Angeles, CA 90049",
+    "Price": "$1,799,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1846,
+    "Image": "https://photos.zillowstatic.com/fp/68eba02b46a7423dbe338b3692ac6bc1-p_e.jpg",
+    "ZPID": "20558571"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12426-Idaho-Ave-Los-Angeles-CA-90025/20464168_zpid/",
+    "Address": "12426 Idaho Ave, Los Angeles, CA 90025",
+    "Price": "$1,975,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1804,
+    "Image": "https://photos.zillowstatic.com/fp/033d89e476836642f3fdadbf6eef2167-p_e.jpg",
+    "ZPID": "20464168"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4816-Oak-Park-Ave-Encino-CA-91316/19993290_zpid/",
+    "Address": "4816 Oak Park Ave, Encino, CA 91316",
+    "Price": "$6,295,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 6783,
+    "Image": "https://photos.zillowstatic.com/fp/543c276e7778f0f104b6ce55128531ec-p_e.jpg",
+    "ZPID": "19993290"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6435-Madden-Ave-Los-Angeles-CA-90043/20327407_zpid/",
+    "Address": "6435 Madden Ave, Los Angeles, CA 90043",
+    "Price": "$599,999",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1255,
+    "Image": "https://photos.zillowstatic.com/fp/2156f3b292306de10a8ef8d6570ecd6e-p_e.jpg",
+    "ZPID": "20327407"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4308-Van-Horne-Ave-Los-Angeles-CA-90032/20690650_zpid/",
+    "Address": "4308 Van Horne Ave, Los Angeles, CA 90032",
+    "Price": "$898,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1134,
+    "Image": "https://photos.zillowstatic.com/fp/7021102399f1afcafb523b76c6b45034-p_e.jpg",
+    "ZPID": "20690650"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2215-Allesandro-Way-Los-Angeles-CA-90039/20743136_zpid/",
+    "Address": "2215 Allesandro Way, Los Angeles, CA 90039",
+    "Price": "$649,000",
+    "Beds": 3,
+    "Baths": 1,
+    "Area": 1192,
+    "Image": "https://photos.zillowstatic.com/fp/47e557ecd01a4206d4618300b85323a4-p_e.jpg",
+    "ZPID": "20743136"
+  },
+  {
+    "URL": "https://www.zillow.com/b/building/34.168633,-118.52358_ll/",
+    "Address": "5400 Newcastle Ave, Encino, CA",
+    "Price": "From $359,500",
+    "Image": "https://photos.zillowstatic.com/fp/228849659f44d1c648280cc8dcf2e667-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/615-N-Faring-Rd-Los-Angeles-CA-90077/20523912_zpid/",
+    "Address": "615 N Faring Rd, Los Angeles, CA 90077",
+    "Price": "$34,950,000",
+    "Beds": 6,
+    "Baths": 12,
+    "Area": 17661,
+    "Image": "https://photos.zillowstatic.com/fp/3ad88c8314973883996cf2a51cdb9199-p_e.jpg",
+    "ZPID": "20523912"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6938-Laurel-Canyon-Blvd-UNIT-302-North-Hollywood-CA-91605/79796466_zpid/",
+    "Address": "6938 Laurel Canyon Blvd UNIT 302, North Hollywood, CA 91605",
+    "Price": "$524,900",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 980,
+    "Image": "https://photos.zillowstatic.com/fp/98fe8a0befeb85afc8f292281e1e831c-p_e.jpg",
+    "ZPID": "79796466"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8547-Tampa-Ave-Northridge-CA-91324/20182885_zpid/",
+    "Address": "8547 Tampa Ave, Northridge, CA 91324",
+    "Price": "$875,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1570,
+    "Image": "https://photos.zillowstatic.com/fp/e98651eafce5645ef3ea8569cb38a186-p_e.jpg",
+    "ZPID": "20182885"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20539-Enadia-Way-Winnetka-CA-91306/19927014_zpid/",
+    "Address": "20539 Enadia Way, Winnetka, CA 91306",
+    "Price": "$819,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1342,
+    "Image": "https://photos.zillowstatic.com/fp/c1f7bc0d0d03bcf1fe6febbbdc01da6c-p_e.jpg",
+    "ZPID": "19927014"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/746-S-Los-Angeles-St-APT-607-Los-Angeles-CA-90014/333348174_zpid/",
+    "Address": "746 S Los Angeles St APT 607, Los Angeles, CA 90014",
+    "Price": "$384,999",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 650,
+    "Image": "https://photos.zillowstatic.com/fp/a2ba485e5041ae1d85a3f384ff961ae4-p_e.jpg",
+    "ZPID": "333348174"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16630-Oldham-Pl-Encino-CA-91436/19994466_zpid/",
+    "Address": "16630 Oldham Pl, Encino, CA 91436",
+    "Price": "$9,999,500",
+    "Beds": 6,
+    "Baths": 10,
+    "Area": 9437,
+    "Image": "https://photos.zillowstatic.com/fp/84cdfc9e8dce78ff390f8f0ea142d3b7-p_e.jpg",
+    "ZPID": "19994466"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/501-Palisades-Dr-APT-110-Pacific-Palisades-CA-90272/20542734_zpid/",
+    "Address": "501 Palisades Dr APT 110, Pacific Palisades, CA 90272",
+    "Price": "$322,000",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 593,
+    "Image": "https://photos.zillowstatic.com/fp/6f4c3e6854ecae2eb712cd31c5163000-p_e.jpg",
+    "ZPID": "20542734"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8130-Gould-Ave-Los-Angeles-CA-90046/20797632_zpid/",
+    "Address": "8130 Gould Ave, Los Angeles, CA 90046",
+    "Price": "$2,095,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 1737,
+    "Image": "https://photos.zillowstatic.com/fp/058a26f05f3d45f1eec47a3f140e303d-p_e.jpg",
+    "ZPID": "20797632"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4427-Alumni-Ave-Los-Angeles-CA-90041/20764923_zpid/",
+    "Address": "4427 Alumni Ave, Los Angeles, CA 90041",
+    "Price": "$870,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1179,
+    "Image": "https://photos.zillowstatic.com/fp/1ff6ac7a1ed40fbf8878e0d0f0182aca-p_e.jpg",
+    "ZPID": "20764923"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/222-Avondale-Ave-Los-Angeles-CA-90049/20538465_zpid/",
+    "Address": "222 Avondale Ave, Los Angeles, CA 90049",
+    "Price": "$9,750,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 6123,
+    "Image": "https://photos.zillowstatic.com/fp/040a952a5704d7cb5edd354fd1ef4609-p_e.jpg",
+    "ZPID": "20538465"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/651-S-Bundy-Dr-Los-Angeles-CA-90049/20537137_zpid/",
+    "Address": "651 S Bundy Dr, Los Angeles, CA 90049",
+    "Price": "$2,998,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2151,
+    "Image": "https://photos.zillowstatic.com/fp/2b60005e39ad21baed03e0b1413e3df5-p_e.jpg",
+    "ZPID": "20537137"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8837-Oak-Park-Ave-Northridge-CA-91325/20151689_zpid/",
+    "Address": "8837 Oak Park Ave, Northridge, CA 91325",
+    "Price": "$1,499,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2408,
+    "Image": "https://photos.zillowstatic.com/fp/803ed85905c040847dafc7733c18ece2-p_e.jpg",
+    "ZPID": "20151689"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/21933-Vintage-St-Chatsworth-CA-91311/20172294_zpid/",
+    "Address": "21933 Vintage St, Chatsworth, CA 91311",
+    "Price": "$729,800",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1474,
+    "Image": "https://photos.zillowstatic.com/fp/64b06dccc10ab51cb3af1c22b2d793fa-p_e.jpg",
+    "ZPID": "20172294"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5824-Manton-Ave-Woodland-Hills-CA-91367/19878584_zpid/",
+    "Address": "5824 Manton Ave, Woodland Hills, CA 91367",
+    "Price": "$5,495,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 7470,
+    "Image": "https://photos.zillowstatic.com/fp/523d9e773ab1676cfeb2042a1d828049-p_e.jpg",
+    "ZPID": "19878584"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20464-Elkwood-St-Winnetka-CA-91306/19908223_zpid/",
+    "Address": "20464 Elkwood St, Winnetka, CA 91306",
+    "Price": "$699,000",
+    "Beds": 3,
+    "Baths": 1,
+    "Area": 1155,
+    "Image": "https://photos.zillowstatic.com/fp/c2b529638121fd143e7f999430ae9ffb-p_e.jpg",
+    "ZPID": "19908223"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/19026-Sprague-St-Tarzana-CA-91356/458877684_zpid/",
+    "Address": "19026 Sprague St, Tarzana, CA 91356",
+    "Price": "$6,750,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 6800,
+    "Image": "https://photos.zillowstatic.com/fp/50b4371c92ff048c7a17245e47bdac73-p_e.jpg",
+    "ZPID": "458877684"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/668-W-28th-St-Los-Angeles-CA-90007/2076713802_zpid/",
+    "Address": "668 W 28th St, Los Angeles, CA 90007",
+    "Price": "$1",
+    "Beds": 30,
+    "Baths": 26,
+    "Area": 12269,
+    "Image": "https://photos.zillowstatic.com/fp/028f55219381489776c489853310276c-p_e.jpg",
+    "ZPID": "2076713802"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/491-N-Tigertail-Rd-Los-Angeles-CA-90049/20537030_zpid/",
+    "Address": "491 N Tigertail Rd, Los Angeles, CA 90049",
+    "Price": "$29,950,000",
+    "Beds": 9,
+    "Baths": 14,
+    "Area": 15600,
+    "Image": "https://photos.zillowstatic.com/fp/7e16b0f9c40777e375254450aed8b7eb-p_e.jpg",
+    "ZPID": "20537030"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9259-Robin-Dr-Los-Angeles-CA-90069/20799619_zpid/",
+    "Address": "9259 Robin Dr, Los Angeles, CA 90069",
+    "Price": "$32,500,000",
+    "Beds": 4,
+    "Baths": 8,
+    "Area": 12010,
+    "Image": "https://photos.zillowstatic.com/fp/62813faebc3716f52874e33fe935f6c9-p_e.jpg",
+    "ZPID": "20799619"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10816-Redmont-Ave-Tujunga-CA-91042/20099423_zpid/",
+    "Address": "10816 Redmont Ave, Tujunga, CA 91042",
+    "Price": "$1,099,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1920,
+    "Image": "https://photos.zillowstatic.com/fp/591461ed5abab4b36d06762b6c08ea14-p_e.jpg",
+    "ZPID": "20099423"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3950-Franklin-Ave-Los-Angeles-CA-90027/20811335_zpid/",
+    "Address": "3950 Franklin Ave, Los Angeles, CA 90027",
+    "Price": "$1,490,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 1647,
+    "Image": "https://photos.zillowstatic.com/fp/538bc9678b8b3cc86a7176f4357c61a1-p_e.jpg",
+    "ZPID": "20811335"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8494-Cole-Crest-Dr-Los-Angeles-CA-90046/119677241_zpid/",
+    "Address": "8494 Cole Crest Dr, Los Angeles, CA 90046",
+    "Price": "$2,995,000",
+    "Beds": 6,
+    "Baths": 6,
+    "Area": 4074,
+    "Image": "https://photos.zillowstatic.com/fp/368d13846ec128d3bbb94bc3cdfb9ce5-p_e.jpg",
+    "ZPID": "119677241"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2014-W-84th-St-Los-Angeles-CA-90047/20949122_zpid/",
+    "Address": "2014 W 84th St, Los Angeles, CA 90047",
+    "Price": "$979,999",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1440,
+    "Image": "https://photos.zillowstatic.com/fp/813f891989530edcd32eae2b3dff65e4-p_e.jpg",
+    "ZPID": "20949122"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/467-Paseo-Miramar-Pacific-Palisades-CA-90272/89139314_zpid/",
+    "Address": "467 Paseo Miramar, Pacific Palisades, CA 90272",
+    "Price": "$14,495,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 0,
+    "Image": "https://photos.zillowstatic.com/fp/71bdd9bf369de75ae5e756ce72f07451-p_e.jpg",
+    "ZPID": "89139314"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14144-Burbank-Blvd-UNIT-2-Sherman-Oaks-CA-91401/68985531_zpid/",
+    "Address": "14144 Burbank Blvd UNIT 2, Sherman Oaks, CA 91401",
+    "Price": "$599,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1240,
+    "Image": "https://photos.zillowstatic.com/fp/0c5ffc804f700f463fc6b05182964339-p_e.jpg",
+    "ZPID": "68985531"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1982-N-Normandie-Ave-Los-Angeles-CA-90027/20809789_zpid/",
+    "Address": "1982 N Normandie Ave, Los Angeles, CA 90027",
+    "Price": "$3,995,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 3487,
+    "Image": "https://photos.zillowstatic.com/fp/92de488046b6cd90056bccdd575c596c-p_e.jpg",
+    "ZPID": "20809789"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/20644-Sherman-Way-Winnetka-CA-91306/19927184_zpid/",
+    "Address": "20644 Sherman Way, Winnetka, CA 91306",
+    "Price": "$719,999",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1293,
+    "Image": "https://photos.zillowstatic.com/fp/198378539f04fd1482b7450417692362-p_e.jpg",
+    "ZPID": "19927184"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9400-Kramerwood-Pl-Los-Angeles-CA-90034/20495468_zpid/",
+    "Address": "9400 Kramerwood Pl, Los Angeles, CA 90034",
+    "Price": "$1,499,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1544,
+    "Image": "https://photos.zillowstatic.com/fp/c8c0422c836010639cc12a2767856847-p_e.jpg",
+    "ZPID": "20495468"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22736-Runnymede-St-West-Hills-CA-91307/19866361_zpid/",
+    "Address": "22736 Runnymede St, West Hills, CA 91307",
+    "Price": "$829,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1338,
+    "Image": "https://photos.zillowstatic.com/fp/14995fd5743e1245480ada4e954dd35f-p_e.jpg",
+    "ZPID": "19866361"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13019-Sky-Valley-Rd-Los-Angeles-CA-90049/20558462_zpid/",
+    "Address": "13019 Sky Valley Rd, Los Angeles, CA 90049",
+    "Price": "$3,195,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2888,
+    "Image": "https://photos.zillowstatic.com/fp/853770f91d3386880016449e126ac4f5-p_e.jpg",
+    "ZPID": "20558462"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16264-Kalisher-St-Granada-Hills-CA-91344/20146966_zpid/",
+    "Address": "16264 Kalisher St, Granada Hills, CA 91344",
+    "Price": "$994,950",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1796,
+    "Image": "https://photos.zillowstatic.com/fp/cfea30eae62c1d75827fc9d0f18f7cbb-p_e.jpg",
+    "ZPID": "20146966"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1716-Magnolia-Ave-Los-Angeles-CA-90006/20593600_zpid/",
+    "Address": "1716 Magnolia Ave, Los Angeles, CA 90006",
+    "Price": "$775,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2492,
+    "Image": "https://photos.zillowstatic.com/fp/54edbd3a4ff9b53c35ad662732cc9d10-p_e.jpg",
+    "ZPID": "20593600"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2544-W-5th-St-Los-Angeles-CA-90057/20627030_zpid/",
+    "Address": "2544 W 5th St, Los Angeles, CA 90057",
+    "Price": "$995,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1470,
+    "Image": "https://photos.zillowstatic.com/fp/f594fe6e243b662ce4ed7b2755ef4feb-p_e.jpg",
+    "ZPID": "20627030"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2275-W-25th-St-SPACE-166-San-Pedro-CA-90732/442370044_zpid/",
+    "Address": "2275 W 25th St SPACE 166, San Pedro, CA 90732",
+    "Price": "$450,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 2350,
+    "Image": "https://photos.zillowstatic.com/fp/947ac1abd7d480dc4fcc634de8bd253a-p_e.jpg",
+    "ZPID": "442370044"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4525-Greenbush-Ave-Sherman-Oaks-CA-91423/20022856_zpid/",
+    "Address": "4525 Greenbush Ave, Sherman Oaks, CA 91423",
+    "Price": "$2,899,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 3258,
+    "Image": "https://photos.zillowstatic.com/fp/b5e40f044526793b55363430718fd609-p_e.jpg",
+    "ZPID": "20022856"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9277-Thrush-Way-West-Hollywood-CA-90069/453256313_zpid/",
+    "Address": "9277 Thrush Way, West Hollywood, CA 90069",
+    "Price": "$9,888,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 0,
+    "Image": "https://photos.zillowstatic.com/fp/6a90964339fa5b01fe9271d8d2c38ca3-p_e.jpg",
+    "ZPID": "453256313"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2612-Marathon-St-1-4-Los-Angeles-CA-90026/458672670_zpid/",
+    "Address": "2612 Marathon St #1/4, Los Angeles, CA 90026",
+    "Price": "$549,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 687,
+    "Image": "https://photos.zillowstatic.com/fp/84b8c2b25412446476ae8956fdee8b0d-p_e.jpg",
+    "ZPID": "458672670"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1648-Summitridge-Dr-Beverly-Hills-CA-90210/20523173_zpid/",
+    "Address": "1648 Summitridge Dr, Beverly Hills, CA 90210",
+    "Price": "$4,995,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 5404,
+    "Image": "https://photos.zillowstatic.com/fp/fda1858cd4bc085df6def2491ada7bff-p_e.jpg",
+    "ZPID": "20523173"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2020-Rosilla-Pl-Los-Angeles-CA-90046/20800375_zpid/",
+    "Address": "2020 Rosilla Pl, Los Angeles, CA 90046",
+    "Price": "$999,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 768,
+    "Image": "https://photos.zillowstatic.com/fp/4b0685baaad72ff8e20ca36c47c1c415-p_e.jpg",
+    "ZPID": "20800375"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/505-N-Avenue-65-Los-Angeles-CA-90042/20773060_zpid/",
+    "Address": "505 N Avenue 65, Los Angeles, CA 90042",
+    "Price": "$1,090,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1516,
+    "Image": "https://photos.zillowstatic.com/fp/16eaa955689a3353195b4546abc6062b-p_e.jpg",
+    "ZPID": "20773060"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/133-S-Mapleton-Dr-Los-Angeles-CA-90024/20524379_zpid/",
+    "Address": "133 S Mapleton Dr, Los Angeles, CA 90024",
+    "Price": "$59,900,000",
+    "Beds": 9,
+    "Baths": 14,
+    "Area": 26522,
+    "Image": "https://photos.zillowstatic.com/fp/d76fc3e67d0481dd4693c64c7e9ebeee-p_e.jpg",
+    "ZPID": "20524379"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1121-Abbot-Kinney-Blvd-STE-F-Venice-CA-90291/2119500430_zpid/",
+    "Address": "1121 Abbot Kinney Blvd STE F, Venice, CA 90291",
+    "Price": "$999,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 985,
+    "Image": "https://photos.zillowstatic.com/fp/34f6c43726039b9283d374dcb4636ce6-p_e.jpg",
+    "ZPID": "2119500430"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4437-Balboa-Ave-Encino-CA-91316/19993422_zpid/",
+    "Address": "4437 Balboa Ave, Encino, CA 91316",
+    "Price": "$4,498,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 6780,
+    "Image": "https://photos.zillowstatic.com/fp/b167c8354b4c21bfead2ffc8edba9a90-p_e.jpg",
+    "ZPID": "19993422"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10125-De-Soto-Ave-UNIT-45-Chatsworth-CA-91311/20172645_zpid/",
+    "Address": "10125 De Soto Ave UNIT 45, Chatsworth, CA 91311",
+    "Price": "$649,999",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1316,
+    "Image": "https://photos.zillowstatic.com/fp/72e3d7600b26288c2a2b27951a0e880b-p_e.jpg",
+    "ZPID": "20172645"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/281-E-Avenue-33-Los-Angeles-CA-90031/20637396_zpid/",
+    "Address": "281 E Avenue 33, Los Angeles, CA 90031",
+    "Price": "$959,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1809,
+    "Image": "https://photos.zillowstatic.com/fp/4fc280faebcd8810bf1df6c96b43472b-p_e.jpg",
+    "ZPID": "20637396"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1241-E-43rd-Pl-Los-Angeles-CA-90011/20620084_zpid/",
+    "Address": "1241 E 43rd Pl, Los Angeles, CA 90011",
+    "Price": "$599,000",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 2362,
+    "Image": "https://photos.zillowstatic.com/fp/5ecb4c4a822f907abeea532e157e8dce-p_e.jpg",
+    "ZPID": "20620084"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/279-Mabery-Rd-Santa-Monica-CA-90402/20539788_zpid/",
+    "Address": "279 Mabery Rd, Santa Monica, CA 90402",
+    "Price": "$4,495,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2772,
+    "Image": "https://photos.zillowstatic.com/fp/b3be97ab2426f61fe8095085b21da164-p_e.jpg",
+    "ZPID": "20539788"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1900-Bel-Air-Rd-Los-Angeles-CA-90077/20529507_zpid/",
+    "Address": "1900 Bel Air Rd, Los Angeles, CA 90077",
+    "Price": "$14,995,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 6150,
+    "Image": "https://photos.zillowstatic.com/fp/c101321f0d087b6e48d7afd83bd700af-p_e.jpg",
+    "ZPID": "20529507"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/659-E-Channel-Rd-Santa-Monica-CA-90402/20539139_zpid/",
+    "Address": "659 E Channel Rd, Santa Monica, CA 90402",
+    "Price": "$13,400,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 5873,
+    "Image": "https://photos.zillowstatic.com/fp/a98c467ecebf79cd16ce187f64e71c9b-p_e.jpg",
+    "ZPID": "20539139"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8185-Hollywood-Blvd-Los-Angeles-CA-90069/20798009_zpid/",
+    "Address": "8185 Hollywood Blvd, Los Angeles, CA 90069",
+    "Price": "$7,749,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 5862,
+    "Image": "https://photos.zillowstatic.com/fp/9691664f700c60a21cb3e21e9fc6827b-p_e.jpg",
+    "ZPID": "20798009"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/634-Moreno-Ave-Los-Angeles-CA-90049/20467431_zpid/",
+    "Address": "634 Moreno Ave, Los Angeles, CA 90049",
+    "Price": "$19,995,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 8990,
+    "Image": "https://photos.zillowstatic.com/fp/aa82f748c9ff4cce77d688319046ed15-p_e.jpg",
+    "ZPID": "20467431"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1460-Laurel-Way-Beverly-Hills-CA-90210/20523275_zpid/",
+    "Address": "1460 Laurel Way, Beverly Hills, CA 90210",
+    "Price": "$34,895,000",
+    "Beds": 8,
+    "Baths": 15,
+    "Area": 16424,
+    "Image": "https://photos.zillowstatic.com/fp/0cecdff7a297a6581886e32db1d36735-p_e.jpg",
+    "ZPID": "20523275"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3569-Kelton-Ave-Los-Angeles-CA-90034/20460484_zpid/",
+    "Address": "3569 Kelton Ave, Los Angeles, CA 90034",
+    "Price": "$1,499,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1637,
+    "Image": "https://photos.zillowstatic.com/fp/28915139dd92d3abcbece567e879f718-p_e.jpg",
+    "ZPID": "20460484"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7661-Curson-Ter-Los-Angeles-CA-90046/20795042_zpid/",
+    "Address": "7661 Curson Ter, Los Angeles, CA 90046",
+    "Price": "$125,000,000",
+    "Beds": 7,
+    "Baths": 12,
+    "Area": 22000,
+    "Image": "https://photos.zillowstatic.com/fp/d17d57a2b0b70a2a3492611cccaf2b6f-p_e.jpg",
+    "ZPID": "20795042"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22202-Avenue-San-Luis-Woodland-Hills-CA-91364/19943528_zpid/",
+    "Address": "22202 Avenue San Luis, Woodland Hills, CA 91364",
+    "Price": "$1,149,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2218,
+    "Image": "https://photos.zillowstatic.com/fp/46412accd2b3d0363c61c3bcd4b7f8a2-p_e.jpg",
+    "ZPID": "19943528"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11012-Willowbrook-Ave-Los-Angeles-CA-90059/20969434_zpid/",
+    "Address": "11012 Willowbrook Ave, Los Angeles, CA 90059",
+    "Price": "$529,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1714,
+    "Image": "https://photos.zillowstatic.com/fp/368100004c8d7a50498dffc83a559e01-p_e.jpg",
+    "ZPID": "20969434"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/333-E-84th-St-Los-Angeles-CA-90003/20945699_zpid/",
+    "Address": "333 E 84th St, Los Angeles, CA 90003",
+    "Price": "$429,900",
+    "Beds": 10,
+    "Baths": 4,
+    "Area": 994,
+    "Image": "https://photos.zillowstatic.com/fp/869a6ea48f94226efdcd11a25f8ba48e-p_e.jpg",
+    "ZPID": "20945699"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1220-Corsica-Dr-Pacific-Palisades-CA-90272/20538878_zpid/",
+    "Address": "1220 Corsica Dr, Pacific Palisades, CA 90272",
+    "Price": "$19,995,000",
+    "Beds": 6,
+    "Baths": 10,
+    "Area": 10293,
+    "Image": "https://photos.zillowstatic.com/fp/d6ec6e191e004486914bfffe35189c9e-p_e.jpg",
+    "ZPID": "20538878"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1130-Angelo-Dr-Beverly-Hills-CA-90210/20524006_zpid/",
+    "Address": "1130 Angelo Dr, Beverly Hills, CA 90210",
+    "Price": "$17,250,000",
+    "Beds": 5,
+    "Baths": 10,
+    "Area": 10399,
+    "Image": "https://photos.zillowstatic.com/fp/543ac7819211ab99c204e976b035d907-p_e.jpg",
+    "ZPID": "20524006"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/327-E-Rustic-Rd-Santa-Monica-CA-90402/20539885_zpid/",
+    "Address": "327 E Rustic Rd, Santa Monica, CA 90402",
+    "Price": "$4,995,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2834,
+    "Image": "https://photos.zillowstatic.com/fp/53e87e8bb3e3ad03d010950b6338f00d-p_e.jpg",
+    "ZPID": "20539885"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11701-Texas-Ave-APT-306-Los-Angeles-CA-90025/65251978_zpid/",
+    "Address": "11701 Texas Ave APT 306, Los Angeles, CA 90025",
+    "Price": "$639,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1182,
+    "Image": "https://photos.zillowstatic.com/fp/91063184e067bcbae1df30a152e706bd-p_e.jpg",
+    "ZPID": "65251978"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9705-Oak-Pass-Rd-Beverly-Hills-CA-90210/20532916_zpid/",
+    "Address": "9705 Oak Pass Rd, Beverly Hills, CA 90210",
+    "Price": "$18,995,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 8829,
+    "Image": "https://photos.zillowstatic.com/fp/ee6093c9dbe4ca823fac45d7f496e4c0-p_e.jpg",
+    "ZPID": "20532916"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10509-Vestone-Way-Los-Angeles-CA-90077/62018451_zpid/",
+    "Address": "10509 Vestone Way, Los Angeles, CA 90077",
+    "Price": "$11,995,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 11251,
+    "Image": "https://photos.zillowstatic.com/fp/a3f4c29bb6fb17d53754e0a037403f1f-p_e.jpg",
+    "ZPID": "62018451"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1609-Magnetic-Ter-Los-Angeles-CA-90069/95578569_zpid/",
+    "Address": "1609 Magnetic Ter, Los Angeles, CA 90069",
+    "Price": "$18,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 9953,
+    "Image": "https://photos.zillowstatic.com/fp/73afc863b894ddae06ab7583af02372f-p_e.jpg",
+    "ZPID": "95578569"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/607-Siena-Way-Los-Angeles-CA-90077/447566500_zpid/",
+    "Address": "607 Siena Way, Los Angeles, CA 90077",
+    "Price": "$135,000,000",
+    "Beds": 8,
+    "Baths": 20,
+    "Image": "https://photos.zillowstatic.com/fp/da480a3fe28cd071bc30ce5282675a1a-p_e.jpg",
+    "ZPID": "447566500"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1143-S-Grande-Vista-Ave-Los-Angeles-CA-90023/20635068_zpid/",
+    "Address": "1143 S Grande Vista Ave, Los Angeles, CA 90023",
+    "Price": "$585,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1102,
+    "Image": "https://photos.zillowstatic.com/fp/2d0f101bfaf836413dda8d9be8ecdd8b-p_e.jpg",
+    "ZPID": "20635068"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1834-Roscomare-Rd-Los-Angeles-CA-90077/20530163_zpid/",
+    "Address": "1834 Roscomare Rd, Los Angeles, CA 90077",
+    "Price": "$2,499,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2518,
+    "Image": "https://photos.zillowstatic.com/fp/1897d4be3412e2bc3ded854b18a55a1a-p_e.jpg",
+    "ZPID": "20530163"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/618-W-111th-Pl-Los-Angeles-CA-90044/20972420_zpid/",
+    "Address": "618 W 111th Pl, Los Angeles, CA 90044",
+    "Price": "$599,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 1246,
+    "Image": "https://photos.zillowstatic.com/fp/d232c72b7bce2b008abaf87aead69bb1-p_e.jpg",
+    "ZPID": "20972420"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11699-Brookhaven-Ave-APT-2-Los-Angeles-CA-90064/20463687_zpid/",
+    "Address": "11699 Brookhaven Ave APT 2, Los Angeles, CA 90064",
+    "Price": "$950,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1547,
+    "Image": "https://photos.zillowstatic.com/fp/52e798faebf3affe5e9705f4b552351d-p_e.jpg",
+    "ZPID": "20463687"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4322-Hayvenhurst-Ave-Encino-CA-91436/19994255_zpid/",
+    "Address": "4322 Hayvenhurst Ave, Encino, CA 91436",
+    "Price": "$8,995,000",
+    "Beds": 7,
+    "Baths": 10,
+    "Area": 14164,
+    "Image": "https://photos.zillowstatic.com/fp/b20441faa910e6703a2f58ccdd03ea80-p_e.jpg",
+    "ZPID": "19994255"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10736-Le-Conte-Ave-Los-Angeles-CA-90024/20525266_zpid/",
+    "Address": "10736 Le Conte Ave, Los Angeles, CA 90024",
+    "Price": "$4,695,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2777,
+    "Image": "https://photos.zillowstatic.com/fp/d8835bd137227cac7f7785e6c50d52a7-p_e.jpg",
+    "ZPID": "20525266"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/510-Venice-Way-Venice-CA-90291/20450501_zpid/",
+    "Address": "510 Venice Way, Venice, CA 90291",
+    "Price": "$1,675,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1130,
+    "Image": "https://photos.zillowstatic.com/fp/3e5dab9fb2fb717fca808be0ac47a9e3-p_e.jpg",
+    "ZPID": "20450501"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6882-Arizona-Ave-Los-Angeles-CA-90045/20382382_zpid/",
+    "Address": "6882 Arizona Ave, Los Angeles, CA 90045",
+    "Price": "$6,795,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 9899,
+    "Image": "https://photos.zillowstatic.com/fp/49fea3fc6c3a1fef072990672f5c956a-p_e.jpg",
+    "ZPID": "20382382"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/17177-Adlon-Rd-Encino-CA-91436/19994709_zpid/",
+    "Address": "17177 Adlon Rd, Encino, CA 91436",
+    "Price": "$9,380,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 8504,
+    "Image": "https://photos.zillowstatic.com/fp/31928b0a39a1e1cf017075d26ac493e9-p_e.jpg",
+    "ZPID": "19994709"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1801-S-Sycamore-Ave-Los-Angeles-CA-90019/20599357_zpid/",
+    "Address": "1801 S Sycamore Ave, Los Angeles, CA 90019",
+    "Price": "$844,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1448,
+    "Image": "https://photos.zillowstatic.com/fp/a2abd590314eaedb8b8bfb0f266d70df-p_e.jpg",
+    "ZPID": "20599357"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1113-N-Beverly-Glen-Blvd-Los-Angeles-CA-90077/20529804_zpid/",
+    "Address": "1113 N Beverly Glen Blvd, Los Angeles, CA 90077",
+    "Price": "$1,285,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1198,
+    "Image": "https://photos.zillowstatic.com/fp/633de6a002bb2eaf4f12353cb840b3bc-p_e.jpg",
+    "ZPID": "20529804"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2158-Sunset-Plaza-Dr-Los-Angeles-CA-90069/20800074_zpid/",
+    "Address": "2158 Sunset Plaza Dr, Los Angeles, CA 90069",
+    "Price": "$1,925,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1920,
+    "Image": "https://photos.zillowstatic.com/fp/a14368b23ca33ec39ca196dc5b7df8c6-p_e.jpg",
+    "ZPID": "20800074"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1460-Moraga-Dr-Los-Angeles-CA-90049/20530507_zpid/",
+    "Address": "1460 Moraga Dr, Los Angeles, CA 90049",
+    "Price": "$12,995,000",
+    "Beds": 6,
+    "Baths": 10,
+    "Area": 9530,
+    "Image": "https://photos.zillowstatic.com/fp/1bc47433111efa3d4fe7f8d7ec71b890-p_e.jpg",
+    "ZPID": "20530507"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4831-Sancola-Ave-Toluca-Lake-CA-91601/20042190_zpid/",
+    "Address": "4831 Sancola Ave, Toluca Lake, CA 91601",
+    "Price": "$2,425,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2570,
+    "Image": "https://photos.zillowstatic.com/fp/fefd7dedffbc092a1916d3f9b1a98dac-p_e.jpg",
+    "ZPID": "20042190"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1385-Palms-Blvd-Venice-CA-90291/20454600_zpid/",
+    "Address": "1385 Palms Blvd, Venice, CA 90291",
+    "Price": "$5,750,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 4012,
+    "Image": "https://photos.zillowstatic.com/fp/977a4bc29ced538166ab037e7c8b72e9-p_e.jpg",
+    "ZPID": "20454600"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1609-N-Stanley-Ave-Los-Angeles-CA-90046/20794184_zpid/",
+    "Address": "1609 N Stanley Ave, Los Angeles, CA 90046",
+    "Price": "$3,995,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 4088,
+    "Image": "https://photos.zillowstatic.com/fp/e7a54b125adc18b946b7be8a9b07bc7b-p_e.jpg",
+    "ZPID": "20794184"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3819-Sunswept-Dr-Studio-City-CA-91604/20032290_zpid/",
+    "Address": "3819 Sunswept Dr, Studio City, CA 91604",
+    "Price": "$1,699,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2484,
+    "Image": "https://photos.zillowstatic.com/fp/fd38b1a62841a795e83b72e25d3427d0-p_e.jpg",
+    "ZPID": "20032290"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/938-Hyperion-Ave-Los-Angeles-CA-90029/20745676_zpid/",
+    "Address": "938 Hyperion Ave, Los Angeles, CA 90029",
+    "Price": "$899,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 1045,
+    "Image": "https://photos.zillowstatic.com/fp/f38b68825b8fabef2cb5957665338d8b-p_e.jpg",
+    "ZPID": "20745676"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/111-S-Van-Ness-Ave-Los-Angeles-CA-90004/20779950_zpid/",
+    "Address": "111 S Van Ness Ave, Los Angeles, CA 90004",
+    "Price": "$10,500,000",
+    "Beds": 7,
+    "Baths": 8,
+    "Area": 7315,
+    "Image": "https://photos.zillowstatic.com/fp/4ce4c4a48502f2b813b95166086196f7-p_e.jpg",
+    "ZPID": "20779950"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9311-Readcrest-Dr-Beverly-Hills-CA-90210/20522979_zpid/",
+    "Address": "9311 Readcrest Dr, Beverly Hills, CA 90210",
+    "Price": "$8,499,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 7181,
+    "Image": "https://photos.zillowstatic.com/fp/bea70bef4846193ca134fd6fa3ec354b-p_e.jpg",
+    "ZPID": "20522979"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12400-Deerbrook-Ln-Los-Angeles-CA-90049/20560103_zpid/",
+    "Address": "12400 Deerbrook Ln, Los Angeles, CA 90049",
+    "Price": "$2,695,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1548,
+    "Image": "https://photos.zillowstatic.com/fp/fe763ecd75595028fb682295df185fc2-p_e.jpg",
+    "ZPID": "20560103"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13170-Mulholland-Dr-Beverly-Hills-CA-90210/20533562_zpid/",
+    "Address": "13170 Mulholland Dr, Beverly Hills, CA 90210",
+    "Price": "$4,190,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 6187,
+    "Image": "https://photos.zillowstatic.com/fp/4cf7882206298a6b28f650b6a05b329c-p_e.jpg",
+    "ZPID": "20533562"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/17446-Hatteras-St-Encino-CA-91316/19977476_zpid/",
+    "Address": "17446 Hatteras St, Encino, CA 91316",
+    "Price": "$1,795,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2440,
+    "Image": "https://photos.zillowstatic.com/fp/4f1ecca93a030de2411f40f4645b1baf-p_e.jpg",
+    "ZPID": "19977476"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15550-Valley-Vista-Blvd-Encino-CA-91436/19992055_zpid/",
+    "Address": "15550 Valley Vista Blvd, Encino, CA 91436",
+    "Price": "$2,295,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2846,
+    "Image": "https://photos.zillowstatic.com/fp/148ae1668c7bfe4fb72a58791bab51ab-p_e.jpg",
+    "ZPID": "19992055"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/509-Santa-Clara-Ave-Venice-CA-90291/20451234_zpid/",
+    "Address": "509 Santa Clara Ave, Venice, CA 90291",
+    "Price": "$4,495,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2909,
+    "Image": "https://photos.zillowstatic.com/fp/6a7fbb205045ad094e4cab2cffa01696-p_e.jpg",
+    "ZPID": "20451234"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11384-Dronfield-Ter-36-Pacoima-CA-91331/2082143117_zpid/",
+    "Address": "11384 Dronfield Ter #36, Pacoima, CA 91331",
+    "Price": "$599,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1729,
+    "Image": "https://photos.zillowstatic.com/fp/d74403f00dd51e8d45af638b7e6b1eb2-p_e.jpg",
+    "ZPID": "2082143117"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4509-Noeline-Ave-Encino-CA-91436/19991835_zpid/",
+    "Address": "4509 Noeline Ave, Encino, CA 91436",
+    "Price": "$8,995,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 9431,
+    "Image": "https://photos.zillowstatic.com/fp/107ee88551b6fe0d92be3680e529f979-p_e.jpg",
+    "ZPID": "19991835"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5563-Bangor-St-Los-Angeles-CA-90016/20597847_zpid/",
+    "Address": "5563 Bangor St, Los Angeles, CA 90016",
+    "Price": "$749,999",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 895,
+    "Image": "https://photos.zillowstatic.com/fp/f0f0f99fe8e2e6d5d039e3ee423d5ce8-p_e.jpg",
+    "ZPID": "20597847"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22637-Covello-St-West-Hills-CA-91307/19866510_zpid/",
+    "Address": "22637 Covello St, West Hills, CA 91307",
+    "Price": "$989,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1372,
+    "Image": "https://photos.zillowstatic.com/fp/275edd2dfb51b779ec49d2dd7c43b4cc-p_e.jpg",
+    "ZPID": "19866510"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1615-S-Crescent-Heights-Blvd-Los-Angeles-CA-90035/20599608_zpid/",
+    "Address": "1615 S Crescent Heights Blvd, Los Angeles, CA 90035",
+    "Price": "$1,395,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1382,
+    "Image": "https://photos.zillowstatic.com/fp/d46e1001ce4f6bf185ed6f5d5f1d3031-p_e.jpg",
+    "ZPID": "20599608"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2311-Worthing-Ln-Los-Angeles-CA-90077/20530560_zpid/",
+    "Address": "2311 Worthing Ln, Los Angeles, CA 90077",
+    "Price": "$7,950,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 9200,
+    "Image": "https://photos.zillowstatic.com/fp/cb36a503907824e834c6b744f6084ed7-p_e.jpg",
+    "ZPID": "20530560"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/455-N-Bundy-Dr-Los-Angeles-CA-90049/20536538_zpid/",
+    "Address": "455 N Bundy Dr, Los Angeles, CA 90049",
+    "Price": "$13,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 7521,
+    "Image": "https://photos.zillowstatic.com/fp/b8084f9d2d5a77bbbbd6ab44fbe87529-p_e.jpg",
+    "ZPID": "20536538"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2522-Zorada-Dr-Los-Angeles-CA-90046/102979613_zpid/",
+    "Address": "2522 Zorada Dr, Los Angeles, CA 90046",
+    "Price": "$1,650,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1550,
+    "Image": "https://photos.zillowstatic.com/fp/0050e53481bfd83e4a019d7dc32b370b-p_e.jpg",
+    "ZPID": "102979613"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9226-Swallow-Dr-Los-Angeles-CA-90069/20799637_zpid/",
+    "Address": "9226 Swallow Dr, Los Angeles, CA 90069",
+    "Price": "$9,995,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 9000,
+    "Image": "https://photos.zillowstatic.com/fp/c5fbe851335a48fdf06527a9f09d09ea-p_e.jpg",
+    "ZPID": "20799637"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7017-Senalda-Rd-Los-Angeles-CA-90068/20803620_zpid/",
+    "Address": "7017 Senalda Rd, Los Angeles, CA 90068",
+    "Price": "$15,000,000",
+    "Beds": 10,
+    "Baths": 11,
+    "Area": 11000,
+    "Image": "https://photos.zillowstatic.com/fp/c060593203c1a6e0b5645aac0173b55f-p_e.jpg",
+    "ZPID": "20803620"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6105-Mulholland-Hwy-Los-Angeles-CA-90068/20806334_zpid/",
+    "Address": "6105 Mulholland Hwy, Los Angeles, CA 90068",
+    "Price": "$2,250,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2515,
+    "Image": "https://photos.zillowstatic.com/fp/b8748851c04f9a2570164545655ba975-p_e.jpg",
+    "ZPID": "20806334"
+  },
+  {
+    "URL": "https://www.zillow.com/b/15455-glenoaks-blvd-sylmar-ca-5Xp23d/",
+    "Address": "15455 Glenoaks Blvd, Sylmar, CA",
+    "Price": "From $358,000",
+    "Image": "https://photos.zillowstatic.com/fp/84d56f37b28f44de9022f6155b93cb0e-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7507-Oak-Park-Ave-Van-Nuys-CA-91406/19953579_zpid/",
+    "Address": "7507 Oak Park Ave, Van Nuys, CA 91406",
+    "Price": "$728,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 862,
+    "Image": "https://photos.zillowstatic.com/fp/fedb818955769ed01490910301eaca77-p_e.jpg",
+    "ZPID": "19953579"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1087-Moraga-Dr-Los-Angeles-CA-90049/20528595_zpid/",
+    "Address": "1087 Moraga Dr, Los Angeles, CA 90049",
+    "Price": "$7,995,000",
+    "Beds": 3,
+    "Baths": 5,
+    "Area": 3948,
+    "Image": "https://photos.zillowstatic.com/fp/b2cc071b17616e4a3cacf54508c3a872-p_e.jpg",
+    "ZPID": "20528595"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4311-Clayton-Ave-Los-Angeles-CA-90027/20746566_zpid/",
+    "Address": "4311 Clayton Ave, Los Angeles, CA 90027",
+    "Price": "$999,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 584,
+    "Image": "https://photos.zillowstatic.com/fp/5dc390bf618c7ba70afdb49644b8dbcb-p_e.jpg",
+    "ZPID": "20746566"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8227-Stewart-Ave-Los-Angeles-CA-90045/20383768_zpid/",
+    "Address": "8227 Stewart Ave, Los Angeles, CA 90045",
+    "Price": "$3,349,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 3426,
+    "Image": "https://photos.zillowstatic.com/fp/2d908a972148d2bc769447092027783f-p_e.jpg",
+    "ZPID": "20383768"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18746-Plummer-St-Northridge-CA-91324/20175944_zpid/",
+    "Address": "18746 Plummer St, Northridge, CA 91324",
+    "Price": "$820,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1470,
+    "Image": "https://photos.zillowstatic.com/fp/d066c15570cba986535c5c467cb33cf0-p_e.jpg",
+    "ZPID": "20175944"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13197-Leach-St-Sylmar-CA-91342/20075318_zpid/",
+    "Address": "13197 Leach St, Sylmar, CA 91342",
+    "Price": "$787,800",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1175,
+    "Image": "https://photos.zillowstatic.com/fp/d3d98c05c6aba2a1f390d9409117dc35-p_e.jpg",
+    "ZPID": "20075318"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3600-Multiview-Dr-Los-Angeles-CA-90068/20044929_zpid/",
+    "Address": "3600 Multiview Dr, Los Angeles, CA 90068",
+    "Price": "$1,500,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2270,
+    "Image": "https://photos.zillowstatic.com/fp/0bea1a755cf3fe6d21e9afc839dc9d54-p_e.jpg",
+    "ZPID": "20044929"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1301-N-Beverly-Dr-Beverly-Hills-CA-90210/20523385_zpid/",
+    "Address": "1301 N Beverly Dr, Beverly Hills, CA 90210",
+    "Price": "$3,995,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 5516,
+    "Image": "https://photos.zillowstatic.com/fp/591e63fde6ef0f30193cb74d98769356-p_e.jpg",
+    "ZPID": "20523385"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22241-Alizondo-Dr-Woodland-Hills-CA-91364/19945607_zpid/",
+    "Address": "22241 Alizondo Dr, Woodland Hills, CA 91364",
+    "Price": "$2,500,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 3756,
+    "Image": "https://photos.zillowstatic.com/fp/db500c3d3fdb66644efa5be536d69801-p_e.jpg",
+    "ZPID": "19945607"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18404-Arminta-St-Reseda-CA-91335/61359384_zpid/",
+    "Address": "18404 Arminta St, Reseda, CA 91335",
+    "Price": "$1,495,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4184,
+    "Image": "https://photos.zillowstatic.com/fp/4601edda461d9a1621ec47982f507991-p_e.jpg",
+    "ZPID": "61359384"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8400-Chimineas-Ave-Northridge-CA-91325/20184159_zpid/",
+    "Address": "8400 Chimineas Ave, Northridge, CA 91325",
+    "Price": "$1,049,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1819,
+    "Image": "https://photos.zillowstatic.com/fp/e264d1cc261070a99ade0442c2e4d40e-p_e.jpg",
+    "ZPID": "20184159"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2124-Eric-Dr-Los-Angeles-CA-90049/82584455_zpid/",
+    "Address": "2124 Eric Dr, Los Angeles, CA 90049",
+    "Price": "$4,195,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2501,
+    "Image": "https://photos.zillowstatic.com/fp/c94e7f1563c7e4b8e8b4b7e7c9cde45a-p_e.jpg",
+    "ZPID": "82584455"
+  },
+  {
+    "URL": "https://www.zillow.com/b/building/34.09041,-118.23774_ll/",
+    "Address": "2222 Dorris Pl, Los Angeles, CA",
+    "Price": "From $749,000",
+    "Image": "https://photos.zillowstatic.com/fp/0109622446e3f429efddfc38b80e06fc-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8640-Gulana-Ave-UNIT-K1020-Playa-Del-Rey-CA-90293/20388510_zpid/",
+    "Address": "8640 Gulana Ave UNIT K1020, Playa Del Rey, CA 90293",
+    "Price": "$639,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1212,
+    "Image": "https://photos.zillowstatic.com/fp/f6e8d74d6d93f65dc38e14457457d2d3-p_e.jpg",
+    "ZPID": "20388510"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6500-Jumilla-Ave-Woodland-Hills-CA-91367/19925396_zpid/",
+    "Address": "6500 Jumilla Ave, Woodland Hills, CA 91367",
+    "Price": "$1,100,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1644,
+    "Image": "https://photos.zillowstatic.com/fp/2b59433088ec4f7de47225c970ac2f72-p_e.jpg",
+    "ZPID": "19925396"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10444-Charing-Cross-Rd-Los-Angeles-CA-90024/20524172_zpid/",
+    "Address": "10444 Charing Cross Rd, Los Angeles, CA 90024",
+    "Price": "$17,695,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 9240,
+    "Image": "https://photos.zillowstatic.com/fp/accc4417df489a9902d7fc471b192b5b-p_e.jpg",
+    "ZPID": "20524172"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3004-Laurel-Canyon-Blvd-Studio-City-CA-91604/20031236_zpid/",
+    "Address": "3004 Laurel Canyon Blvd, Studio City, CA 91604",
+    "Price": "$1,795,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2433,
+    "Image": "https://photos.zillowstatic.com/fp/12907b038ef59519e65fd250bd4de99d-p_e.jpg",
+    "ZPID": "20031236"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4633-Russell-Ave-Los-Angeles-CA-90027/20810642_zpid/",
+    "Address": "4633 Russell Ave, Los Angeles, CA 90027",
+    "Price": "$2,795,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 2833,
+    "Image": "https://photos.zillowstatic.com/fp/f4904310de35cc06590a983500c22f3a-p_e.jpg",
+    "ZPID": "20810642"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5056-Louise-Ave-Encino-CA-91316/19979525_zpid/",
+    "Address": "5056 Louise Ave, Encino, CA 91316",
+    "Price": "$7,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 8532,
+    "Image": "https://photos.zillowstatic.com/fp/2da0ff4fc0676a600626525363c91284-p_e.jpg",
+    "ZPID": "19979525"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18611-Lassen-St-Northridge-CA-91324/20167051_zpid/",
+    "Address": "18611 Lassen St, Northridge, CA 91324",
+    "Price": "$1,259,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2010,
+    "Image": "https://photos.zillowstatic.com/fp/84d7385dcf2a2e31489d04aa4264f2d4-p_e.jpg",
+    "ZPID": "20167051"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18638-Malden-St-Northridge-CA-91324/20183686_zpid/",
+    "Address": "18638 Malden St, Northridge, CA 91324",
+    "Price": "$824,900",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1485,
+    "Image": "https://photos.zillowstatic.com/fp/31a3356f54b338a4abce6016e41337bc-p_e.jpg",
+    "ZPID": "20183686"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2316-Laurelmont-Pl-Los-Angeles-CA-90046/20801070_zpid/",
+    "Address": "2316 Laurelmont Pl, Los Angeles, CA 90046",
+    "Price": "$1,995,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1710,
+    "Image": "https://photos.zillowstatic.com/fp/752bfbf220d20926eeb1843a42074072-p_e.jpg",
+    "ZPID": "20801070"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14328-Emelita-St-Sherman-Oaks-CA-91401/19973250_zpid/",
+    "Address": "14328 Emelita St, Sherman Oaks, CA 91401",
+    "Price": "$1,670,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2347,
+    "Image": "https://photos.zillowstatic.com/fp/565db843564a1ca658b12848675edf82-p_e.jpg",
+    "ZPID": "19973250"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15410-Runnymede-St-Van-Nuys-CA-91406/19962150_zpid/",
+    "Address": "15410 Runnymede St, Van Nuys, CA 91406",
+    "Price": "$850,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2232,
+    "Image": "https://photos.zillowstatic.com/fp/474cd2b934067b73bd65dbdaf11f1098-p_e.jpg",
+    "ZPID": "19962150"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5514-Woodman-Ave-Van-Nuys-CA-91401/20014817_zpid/",
+    "Address": "5514 Woodman Ave, Van Nuys, CA 91401",
+    "Price": "$850,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1099,
+    "Image": "https://photos.zillowstatic.com/fp/2cfe466d260aa378836d1a2ffd9fc032-p_e.jpg",
+    "ZPID": "20014817"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8135-Willow-Glen-Rd-Los-Angeles-CA-90046/20801180_zpid/",
+    "Address": "8135 Willow Glen Rd, Los Angeles, CA 90046",
+    "Price": "$995,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1000,
+    "Image": "https://photos.zillowstatic.com/fp/5f0c875ff77e6440fae48188e135dfbc-p_e.jpg",
+    "ZPID": "20801180"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15457-Moorpark-St-APT-1-Sherman-Oaks-CA-91403/19981765_zpid/",
+    "Address": "15457 Moorpark St APT 1, Sherman Oaks, CA 91403",
+    "Price": "$599,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1287,
+    "Image": "https://photos.zillowstatic.com/fp/494a9ed1e978ca6ccc1688b37a5820cb-p_e.jpg",
+    "ZPID": "19981765"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16456-Kingsbury-St-Granada-Hills-CA-91344/20145860_zpid/",
+    "Address": "16456 Kingsbury St, Granada Hills, CA 91344",
+    "Price": "$1,150,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1560,
+    "Image": "https://photos.zillowstatic.com/fp/e42583b5d639c9327871c9c3311c5f99-p_e.jpg",
+    "ZPID": "20145860"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22542-Burbank-Blvd-Woodland-Hills-CA-91367/19878096_zpid/",
+    "Address": "22542 Burbank Blvd, Woodland Hills, CA 91367",
+    "Price": "$899,500",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1670,
+    "Image": "https://photos.zillowstatic.com/fp/29ef454904e8905297f454cb6e18e1bf-p_e.jpg",
+    "ZPID": "19878096"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4189-Holly-Knoll-Dr-Los-Angeles-CA-90027/20811171_zpid/",
+    "Address": "4189 Holly Knoll Dr, Los Angeles, CA 90027",
+    "Price": "$2,497,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 3480,
+    "Image": "https://photos.zillowstatic.com/fp/9d47b0a83baaa1c4bc6f9b84682b96f0-p_e.jpg",
+    "ZPID": "20811171"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1320-W-58th-Pl-Los-Angeles-CA-90044/20927932_zpid/",
+    "Address": "1320 W 58th Pl, Los Angeles, CA 90044",
+    "Price": "$575,000",
+    "Beds": 3,
+    "Baths": 1,
+    "Area": 1079,
+    "Image": "https://photos.zillowstatic.com/fp/998b552c15bd363ed77a7c1acd3b5d44-p_e.jpg",
+    "ZPID": "20927932"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5102-Escobedo-Dr-Woodland-Hills-CA-91364/19942266_zpid/",
+    "Address": "5102 Escobedo Dr, Woodland Hills, CA 91364",
+    "Price": "$1,399,888",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1614,
+    "Image": "https://photos.zillowstatic.com/fp/2a7a3af412e524760a34dbe73298cc9a-p_e.jpg",
+    "ZPID": "19942266"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11930-Woodley-Ave-Granada-Hills-CA-91344/20107267_zpid/",
+    "Address": "11930 Woodley Ave, Granada Hills, CA 91344",
+    "Price": "$1,259,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1936,
+    "Image": "https://photos.zillowstatic.com/fp/aedee2388c73ea2ea18050e45363e07e-p_e.jpg",
+    "ZPID": "20107267"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1877-Rising-Glen-Rd-Los-Angeles-CA-90069/20799890_zpid/",
+    "Address": "1877 Rising Glen Rd, Los Angeles, CA 90069",
+    "Price": "$14,499,000",
+    "Beds": 4,
+    "Baths": 7,
+    "Area": 8339,
+    "Image": "https://photos.zillowstatic.com/fp/50a0a7371c7435fc9f67084490ac5196-p_e.jpg",
+    "ZPID": "20799890"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1307-N-Doheny-Dr-Los-Angeles-CA-90069/20534864_zpid/",
+    "Address": "1307 N Doheny Dr, Los Angeles, CA 90069",
+    "Price": "$19,995,000",
+    "Beds": 7,
+    "Baths": 8,
+    "Area": 9780,
+    "Image": "https://photos.zillowstatic.com/fp/22f6b33bae348eb161a76cc5db7a7baf-p_e.jpg",
+    "ZPID": "20534864"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5020-Alcove-Ave-Valley-Village-CA-91607/20020915_zpid/",
+    "Address": "5020 Alcove Ave, Valley Village, CA 91607",
+    "Price": "$1,250,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1727,
+    "Image": "https://photos.zillowstatic.com/fp/478e7c3bb4afe6f106757f43e7c29d04-p_e.jpg",
+    "ZPID": "20020915"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/46-Wavecrest-Ave-Venice-CA-90291/20443509_zpid/",
+    "Address": "46 Wavecrest Ave, Venice, CA 90291",
+    "Price": "$2,495,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1924,
+    "Image": "https://photos.zillowstatic.com/fp/af476efb4f587ec92a17dc14838d14b3-p_e.jpg",
+    "ZPID": "20443509"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13167-Boca-De-Canon-Ln-Los-Angeles-CA-90049/20558850_zpid/",
+    "Address": "13167 Boca De Canon Ln, Los Angeles, CA 90049",
+    "Price": "$16,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 8508,
+    "Image": "https://photos.zillowstatic.com/fp/e658a97246fe21b127e3d78a9788cc67-p_e.jpg",
+    "ZPID": "20558850"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4427-S-Wilton-Pl-Los-Angeles-CA-90062/20569181_zpid/",
+    "Address": "4427 S Wilton Pl, Los Angeles, CA 90062",
+    "Price": "$949,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1651,
+    "Image": "https://photos.zillowstatic.com/fp/0bedc28073151623bff330fbb186cc09-p_e.jpg",
+    "ZPID": "20569181"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12227-Tweed-Ln-Los-Angeles-CA-90049/20537089_zpid/",
+    "Address": "12227 Tweed Ln, Los Angeles, CA 90049",
+    "Price": "$12,495,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 10200,
+    "Image": "https://photos.zillowstatic.com/fp/d3eab5e07118d983daf97f3cca1b4585-p_e.jpg",
+    "ZPID": "20537089"
+  },
+  {
+    "URL": "https://www.zillow.com/b/building/33.957737,-118.43177_ll/",
+    "Address": "7765 W 91st A2122 Plz, Playa Del Rey, CA",
+    "Price": "From $395,000",
+    "Image": "https://photos.zillowstatic.com/fp/2d2876315d050d6563de4b40511be391-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2371-Belleglade-Ave-Los-Angeles-CA-90032/20641424_zpid/",
+    "Address": "2371 Belleglade Ave, Los Angeles, CA 90032",
+    "Price": "$850,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 980,
+    "Image": "https://photos.zillowstatic.com/fp/6bbdd20bef4a053731f5d9bc823ece09-p_e.jpg",
+    "ZPID": "20641424"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5753-White-Oak-Ave-UNIT-7-Encino-CA-91316/448140856_zpid/",
+    "Address": "5753 White Oak Ave UNIT 7, Encino, CA 91316",
+    "Price": "$750,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1410,
+    "Image": "https://photos.zillowstatic.com/fp/e873a35d70237d297c3f969af19d12c0-p_e.jpg",
+    "ZPID": "448140856"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4856-Edison-St-Los-Angeles-CA-90032/20638990_zpid/",
+    "Address": "4856 Edison St, Los Angeles, CA 90032",
+    "Price": "$1,199,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1270,
+    "Image": "https://photos.zillowstatic.com/fp/b01dccc0e5de0720a2b445df61c56afe-p_e.jpg",
+    "ZPID": "20638990"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7020-La-Presa-Dr-Los-Angeles-CA-90068/20793662_zpid/",
+    "Address": "7020 La Presa Dr, Los Angeles, CA 90068",
+    "Price": "$4,399,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 4665,
+    "Image": "https://photos.zillowstatic.com/fp/354bcac8d083d420646c7f34298f21b8-p_e.jpg",
+    "ZPID": "20793662"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4809-Genesta-Ave-Encino-CA-91316/19993297_zpid/",
+    "Address": "4809 Genesta Ave, Encino, CA 91316",
+    "Price": "$2,675,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 3000,
+    "Image": "https://photos.zillowstatic.com/fp/6df90f295d2488bd7b527655b40acf2f-p_e.jpg",
+    "ZPID": "19993297"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1345-Casiano-Rd-Los-Angeles-CA-90049/20528897_zpid/",
+    "Address": "1345 Casiano Rd, Los Angeles, CA 90049",
+    "Price": "$4,495,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 3060,
+    "Image": "https://photos.zillowstatic.com/fp/1c4bbb8426839c043365130274be0fed-p_e.jpg",
+    "ZPID": "20528897"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3818-Hollyline-Ave-Sherman-Oaks-CA-91423/19986893_zpid/",
+    "Address": "3818 Hollyline Ave, Sherman Oaks, CA 91423",
+    "Price": "$4,995,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 4900,
+    "Image": "https://photos.zillowstatic.com/fp/a742baf5e80f606007fd40644d796815-p_e.jpg",
+    "ZPID": "19986893"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6603-Willoughby-Ave-Los-Angeles-CA-90038/20789044_zpid/",
+    "Address": "6603 Willoughby Ave, Los Angeles, CA 90038",
+    "Price": "$1,195,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1366,
+    "Image": "https://photos.zillowstatic.com/fp/78495294091560998196380978e86bec-p_e.jpg",
+    "ZPID": "20789044"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4654-Denny-Ave-North-Hollywood-CA-91602/20043051_zpid/",
+    "Address": "4654 Denny Ave, North Hollywood, CA 91602",
+    "Price": "$1,749,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2323,
+    "Image": "https://photos.zillowstatic.com/fp/5f43e7bc7ef3cb4250d75812739265c0-p_e.jpg",
+    "ZPID": "20043051"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8009-S-Mariposa-Ave-Los-Angeles-CA-90044/20947230_zpid/",
+    "Address": "8009 S Mariposa Ave, Los Angeles, CA 90044",
+    "Price": "$600,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1806,
+    "Image": "https://photos.zillowstatic.com/fp/c508c9d931838e66f973e4d2397b9cd6-p_e.jpg",
+    "ZPID": "20947230"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/949-Fernrest-Dr-Harbor-City-CA-90710/21289494_zpid/",
+    "Address": "949 Fernrest Dr, Harbor City, CA 90710",
+    "Price": "$875,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1646,
+    "Image": "https://photos.zillowstatic.com/fp/0c576a1344a01e084071e47245e5a2ca-p_e.jpg",
+    "ZPID": "21289494"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3306-Deronda-Dr-Los-Angeles-CA-90068/20806393_zpid/",
+    "Address": "3306 Deronda Dr, Los Angeles, CA 90068",
+    "Price": "$5,995,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 3137,
+    "Image": "https://photos.zillowstatic.com/fp/0a354e10423fee65f2eb3dee85b71dc8-p_e.jpg",
+    "ZPID": "20806393"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10434-Irma-Ave-Tujunga-CA-91042/20095292_zpid/",
+    "Address": "10434 Irma Ave, Tujunga, CA 91042",
+    "Price": "$650,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 864,
+    "Image": "https://photos.zillowstatic.com/fp/9694e29e0187db86804d1a7046a2ccb5-p_e.jpg",
+    "ZPID": "20095292"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/565-Toyopa-Dr-Pacific-Palisades-CA-90272/20540396_zpid/",
+    "Address": "565 Toyopa Dr, Pacific Palisades, CA 90272",
+    "Price": "$12,750,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 8000,
+    "Image": "https://photos.zillowstatic.com/fp/11023e6c345e07d5f3d0b19e9470a103-p_e.jpg",
+    "ZPID": "20540396"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/17032-Cotter-Pl-Encino-CA-91436/19994699_zpid/",
+    "Address": "17032 Cotter Pl, Encino, CA 91436",
+    "Price": "$2,000,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2288,
+    "Image": "https://photos.zillowstatic.com/fp/8f1222502b5d68f6d0e7dd927fe81430-p_e.jpg",
+    "ZPID": "19994699"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13321-Blythe-St-North-Hollywood-CA-91605/19995715_zpid/",
+    "Address": "13321 Blythe St, North Hollywood, CA 91605",
+    "Price": "$879,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1176,
+    "Image": "https://photos.zillowstatic.com/fp/748c403633c9202f54fc2b82b125dfb3-p_e.jpg",
+    "ZPID": "19995715"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2501-N-Vermont-Ave-Los-Angeles-CA-90027/20809089_zpid/",
+    "Address": "2501 N Vermont Ave, Los Angeles, CA 90027",
+    "Price": "$8,495,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 8900,
+    "Image": "https://photos.zillowstatic.com/fp/5fcc47219b83d979054a8180357a75a2-p_e.jpg",
+    "ZPID": "20809089"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3117-Berkeley-Ave-Los-Angeles-CA-90026/20744847_zpid/",
+    "Address": "3117 Berkeley Ave, Los Angeles, CA 90026",
+    "Price": "$1,449,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1356,
+    "Image": "https://photos.zillowstatic.com/fp/b06573e2bc377ea1d509c669d19ceea9-p_e.jpg",
+    "ZPID": "20744847"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1401-N-Bundy-Dr-Los-Angeles-CA-90049/20559737_zpid/",
+    "Address": "1401 N Bundy Dr, Los Angeles, CA 90049",
+    "Price": "$4,999,999",
+    "Beds": 4,
+    "Baths": 6,
+    "Area": 4651,
+    "Image": "https://photos.zillowstatic.com/fp/2db0dfd4d9fdade4f41bfb962fac13dc-p_e.jpg",
+    "ZPID": "20559737"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1721-Morton-Ave-Los-Angeles-CA-90026/20742701_zpid/",
+    "Address": "1721 Morton Ave, Los Angeles, CA 90026",
+    "Price": "$689,000",
+    "Beds": 6,
+    "Baths": 6,
+    "Area": 1844,
+    "Image": "https://photos.zillowstatic.com/fp/db75ec1050e284a6c4c4d5cf167febb6-p_e.jpg",
+    "ZPID": "20742701"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18653-Palomino-Dr-Tarzana-CA-91356/19947866_zpid/",
+    "Address": "18653 Palomino Dr, Tarzana, CA 91356",
+    "Price": "$1,999,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 3152,
+    "Image": "https://photos.zillowstatic.com/fp/7f65d70605c5f5dd8756324043352056-p_e.jpg",
+    "ZPID": "19947866"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3629-Rosewood-Ave-Los-Angeles-CA-90066/20454929_zpid/",
+    "Address": "3629 Rosewood Ave, Los Angeles, CA 90066",
+    "Price": "$3,995,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 3518,
+    "Image": "https://photos.zillowstatic.com/fp/3b840084022c64f241815ade08195649-p_e.jpg",
+    "ZPID": "20454929"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2333-Mandeville-Canyon-Rd-Los-Angeles-CA-90049/20558918_zpid/",
+    "Address": "2333 Mandeville Canyon Rd, Los Angeles, CA 90049",
+    "Price": "$13,600,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 10600,
+    "Image": "https://photos.zillowstatic.com/fp/72d2c8a2cdf782543128a97db87cd2a8-p_e.jpg",
+    "ZPID": "20558918"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13524-Deste-Dr-Pacific-Palisades-CA-90272/20546548_zpid/",
+    "Address": "13524 Deste Dr, Pacific Palisades, CA 90272",
+    "Price": "$10,950,000",
+    "Beds": 6,
+    "Baths": 6,
+    "Area": 6320,
+    "Image": "https://photos.zillowstatic.com/fp/172207ee229152f48d95a50b8cc3f839-p_e.jpg",
+    "ZPID": "20546548"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4534-Lennox-Ave-Sherman-Oaks-CA-91423/19984217_zpid/",
+    "Address": "4534 Lennox Ave, Sherman Oaks, CA 91423",
+    "Price": "$1,299,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1253,
+    "Image": "https://photos.zillowstatic.com/fp/d2019adf4051bc6a2e2a257430eb879a-p_e.jpg",
+    "ZPID": "19984217"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6553-Winnetka-Ave-Winnetka-CA-91306/19925153_zpid/",
+    "Address": "6553 Winnetka Ave, Winnetka, CA 91306",
+    "Price": "$899,900",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1329,
+    "Image": "https://photos.zillowstatic.com/fp/1a69607db1338291d2a727ff7d5486cc-p_e.jpg",
+    "ZPID": "19925153"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/23623-Ladrillo-St-Woodland-Hills-CA-91367/19881366_zpid/",
+    "Address": "23623 Ladrillo St, Woodland Hills, CA 91367",
+    "Price": "$2,295,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 3000,
+    "Image": "https://photos.zillowstatic.com/fp/3af6bbd5e32321a4e00e8dd211803f54-p_e.jpg",
+    "ZPID": "19881366"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/18928-Victory-Blvd-Tarzana-CA-91335/19921358_zpid/",
+    "Address": "18928 Victory Blvd, Tarzana, CA 91335",
+    "Price": "$775,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1326,
+    "Image": "https://photos.zillowstatic.com/fp/2ac88e5341a70ed20ee55db47bdc52c2-p_e.jpg",
+    "ZPID": "19921358"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6194-Rodgerton-Dr-Los-Angeles-CA-90068/20806645_zpid/",
+    "Address": "6194 Rodgerton Dr, Los Angeles, CA 90068",
+    "Price": "$1,894,900",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1616,
+    "Image": "https://photos.zillowstatic.com/fp/2deb65cd93ccf1555a9cf6d98e61f3ff-p_e.jpg",
+    "ZPID": "20806645"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4029-East-Blvd-Los-Angeles-CA-90066/20447487_zpid/",
+    "Address": "4029 East Blvd, Los Angeles, CA 90066",
+    "Price": "$3,995,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 3738,
+    "Image": "https://photos.zillowstatic.com/fp/013260ce0f8ea2f936266863ca05ba85-p_e.jpg",
+    "ZPID": "20447487"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/740-Warner-Ave-Los-Angeles-CA-90024/20526233_zpid/",
+    "Address": "740 Warner Ave, Los Angeles, CA 90024",
+    "Price": "$13,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 6365,
+    "Image": "https://photos.zillowstatic.com/fp/bb3b733b58233746e050be5299deda78-p_e.jpg",
+    "ZPID": "20526233"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9455-Eden-Dr-Beverly-Hills-CA-90210/20533936_zpid/",
+    "Address": "9455 Eden Dr, Beverly Hills, CA 90210",
+    "Price": "$5,900,000",
+    "Beds": 4,
+    "Baths": 6,
+    "Area": 4200,
+    "Image": "https://photos.zillowstatic.com/fp/915ce3e20cc52e46e55a904736bfc87a-p_e.jpg",
+    "ZPID": "20533936"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5682-Spreading-Oak-Dr-Los-Angeles-CA-90068/20808045_zpid/",
+    "Address": "5682 Spreading Oak Dr, Los Angeles, CA 90068",
+    "Price": "$2,495,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2834,
+    "Image": "https://photos.zillowstatic.com/fp/64794a79f88afe9f9ee92482dfe73eb4-p_e.jpg",
+    "ZPID": "20808045"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/967-Vernon-Ave-Venice-CA-90291/20453767_zpid/",
+    "Address": "967 Vernon Ave, Venice, CA 90291",
+    "Price": "$2,850,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2631,
+    "Image": "https://photos.zillowstatic.com/fp/2a4abf43cee01ff63f212dcc26e2bf44-p_e.jpg",
+    "ZPID": "20453767"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/19540-Sherman-Way-UNIT-602-Reseda-CA-91335/19923075_zpid/",
+    "Address": "19540 Sherman Way UNIT 602, Reseda, CA 91335",
+    "Price": "$539,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1272,
+    "Image": "https://photos.zillowstatic.com/fp/74a329d35ed6ef95a4ff4ccc4435412d-p_e.jpg",
+    "ZPID": "19923075"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8734-Airlane-Ave-Los-Angeles-CA-90045/20389984_zpid/",
+    "Address": "8734 Airlane Ave, Los Angeles, CA 90045",
+    "Price": "$998,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 1164,
+    "Image": "https://photos.zillowstatic.com/fp/3a763698cd7d917d8322108e4998405e-p_e.jpg",
+    "ZPID": "20389984"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11722-Hayvenhurst-Ave-Granada-Hills-CA-91344/20110630_zpid/",
+    "Address": "11722 Hayvenhurst Ave, Granada Hills, CA 91344",
+    "Price": "$1,135,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1552,
+    "Image": "https://photos.zillowstatic.com/fp/975d287a57aedb9ac7876021813c6e82-p_e.jpg",
+    "ZPID": "20110630"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8572-Hillside-Ave-Los-Angeles-CA-90069/20798452_zpid/",
+    "Address": "8572 Hillside Ave, Los Angeles, CA 90069",
+    "Price": "$5,999,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 4602,
+    "Image": "https://photos.zillowstatic.com/fp/50acc90576adfb055b7837a79eb014a5-p_e.jpg",
+    "ZPID": "20798452"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7725-Nestle-Ave-Reseda-CA-91335/19903639_zpid/",
+    "Address": "7725 Nestle Ave, Reseda, CA 91335",
+    "Price": "$650,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 812,
+    "Image": "https://photos.zillowstatic.com/fp/5bc3b6621dbb05e5101aa41f4e7a1abf-p_e.jpg",
+    "ZPID": "19903639"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3975-Frances-Ave-W-Los-Angeles-CA-90066/458855131_zpid/",
+    "Address": "3975 Frances Ave W, Los Angeles, CA 90066",
+    "Price": "$1,890,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2150,
+    "Image": "https://photos.zillowstatic.com/fp/cf8a6e9f290299b015c758980a221201-p_e.jpg",
+    "ZPID": "458855131"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3140-Coldwater-Canyon-Ave-Studio-City-CA-91604/2065609799_zpid/",
+    "Address": "3140 Coldwater Canyon Ave, Studio City, CA 91604",
+    "Price": "$10,000,000",
+    "Beds": 8,
+    "Baths": 9,
+    "Area": 7200,
+    "Image": "https://photos.zillowstatic.com/fp/ec77b2c456cfd792a37a14fb12862bd5-p_e.jpg",
+    "ZPID": "2065609799"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22046-Parthenia-St-Canoga-Park-CA-91304/51576875_zpid/",
+    "Address": "22046 Parthenia St, Canoga Park, CA 91304",
+    "Price": "$999,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1964,
+    "Image": "https://photos.zillowstatic.com/fp/dad681c39a34023818565040544e5f6f-p_e.jpg",
+    "ZPID": "51576875"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1749-Mandeville-Ln-Los-Angeles-CA-90049/20546746_zpid/",
+    "Address": "1749 Mandeville Ln, Los Angeles, CA 90049",
+    "Price": "$16,495,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 7172,
+    "Image": "https://photos.zillowstatic.com/fp/6856e1ba26e7e53e8022562ac67bbd91-p_e.jpg",
+    "ZPID": "20546746"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2426-Fairmount-St-Los-Angeles-CA-90033/20630041_zpid/",
+    "Address": "2426 Fairmount St, Los Angeles, CA 90033",
+    "Price": "$996,000",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 2525,
+    "Image": "https://photos.zillowstatic.com/fp/5e348e20491d09a81430c246ea2a1ab4-p_e.jpg",
+    "ZPID": "20630041"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2928-Westbrook-Ave-Los-Angeles-CA-90046/20802620_zpid/",
+    "Address": "2928 Westbrook Ave, Los Angeles, CA 90046",
+    "Price": "$2,250,000",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 2324,
+    "Image": "https://photos.zillowstatic.com/fp/d055927d14e9365b87321367228acd26-p_e.jpg",
+    "ZPID": "20802620"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8134-Baird-Ave-Reseda-CA-91335/19904128_zpid/",
+    "Address": "8134 Baird Ave, Reseda, CA 91335",
+    "Price": "$800,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1754,
+    "Image": "https://photos.zillowstatic.com/fp/4ab22afa719bf07b6ceea243d0aae8ed-p_e.jpg",
+    "ZPID": "19904128"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/22666-Cavalier-St-Woodland-Hills-CA-91364/19900019_zpid/",
+    "Address": "22666 Cavalier St, Woodland Hills, CA 91364",
+    "Price": "$1,099,900",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2128,
+    "Image": "https://photos.zillowstatic.com/fp/dafaa33c8abfe5ada397bb7215507e02-p_e.jpg",
+    "ZPID": "19900019"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4117-Brunswick-Ave-Los-Angeles-CA-90039/20812698_zpid/",
+    "Address": "4117 Brunswick Ave, Los Angeles, CA 90039",
+    "Price": "$1,498,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1243,
+    "Image": "https://photos.zillowstatic.com/fp/01b02c66e0ff7a2c77c4c2504cc40d27-p_e.jpg",
+    "ZPID": "20812698"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6526-1-2-Fountain-Ave-Los-Angeles-CA-90028/119677797_zpid/",
+    "Address": "6526 1/2 Fountain Ave, Los Angeles, CA 90028",
+    "Price": "$999,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1736,
+    "Image": "https://photos.zillowstatic.com/fp/7be7019117c942d9e9e08800c07a8704-p_e.jpg",
+    "ZPID": "119677797"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4359-Clybourn-Ave-North-Hollywood-CA-91602/20044595_zpid/",
+    "Address": "4359 Clybourn Ave, North Hollywood, CA 91602",
+    "Price": "$2,925,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 2926,
+    "Image": "https://photos.zillowstatic.com/fp/ffc74e6c230484601959f8462d9fc3ab-p_e.jpg",
+    "ZPID": "20044595"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/717-Moreno-Ave-Los-Angeles-CA-90049/125241295_zpid/",
+    "Address": "717 Moreno Ave, Los Angeles, CA 90049",
+    "Price": "$27,000,000",
+    "Beds": 6,
+    "Baths": 6,
+    "Area": 9297,
+    "Image": "https://photos.zillowstatic.com/fp/15c7840892eef71c2fc5b50e491d5f6a-p_e.jpg",
+    "ZPID": "125241295"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/144-N-Bowling-Green-Way-Los-Angeles-CA-90049/20536612_zpid/",
+    "Address": "144 N Bowling Green Way, Los Angeles, CA 90049",
+    "Price": "$8,300,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 7109,
+    "Image": "https://photos.zillowstatic.com/fp/ff3f4cfcb22c0c9965bc5574cbc58429-p_e.jpg",
+    "ZPID": "20536612"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10-30th-Ave-Venice-CA-90291/20443801_zpid/",
+    "Address": "10 30th Ave, Venice, CA 90291",
+    "Price": "$3,497,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4696,
+    "Image": "https://photos.zillowstatic.com/fp/8055a8e4a7809f03d85094feafe70ea2-p_e.jpg",
+    "ZPID": "20443801"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16938-Knapp-St-North-Hills-CA-91343/20149688_zpid/",
+    "Address": "16938 Knapp St, North Hills, CA 91343",
+    "Price": "$1,199,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1832,
+    "Image": "https://photos.zillowstatic.com/fp/f81a2345e4fd5b3b3ae849f5696e7e13-p_e.jpg",
+    "ZPID": "20149688"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/748-N-Kenmore-Ave-Los-Angeles-CA-90029/20790710_zpid/",
+    "Address": "748 N Kenmore Ave, Los Angeles, CA 90029",
+    "Price": "$1,199,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1587,
+    "Image": "https://photos.zillowstatic.com/fp/d45f75bd1fb2ccdceb9db6abfac8711f-p_e.jpg",
+    "ZPID": "20790710"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4535-Vanalden-Ave-Tarzana-CA-91356/19948566_zpid/",
+    "Address": "4535 Vanalden Ave, Tarzana, CA 91356",
+    "Price": "$19,999,000",
+    "Beds": 8,
+    "Baths": 14,
+    "Area": 17181,
+    "Image": "https://photos.zillowstatic.com/fp/6fffd8ed2be8ce6617b903ef91afa193-p_e.jpg",
+    "ZPID": "19948566"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2764-Outpost-Dr-Los-Angeles-CA-90068/20803617_zpid/",
+    "Address": "2764 Outpost Dr, Los Angeles, CA 90068",
+    "Price": "$2,579,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1662,
+    "Image": "https://photos.zillowstatic.com/fp/31b8ef0184548e1aaf6a79364836417b-p_e.jpg",
+    "ZPID": "20803617"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/207-Entrada-Dr-Santa-Monica-CA-90402/20539845_zpid/",
+    "Address": "207 Entrada Dr, Santa Monica, CA 90402",
+    "Price": "$1,895,000",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 725,
+    "Image": "https://photos.zillowstatic.com/fp/f85dae8846b518ddf16b7530a3fc30c3-p_e.jpg",
+    "ZPID": "20539845"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6610-Padre-Ter-Los-Angeles-CA-90068/20803754_zpid/",
+    "Address": "6610 Padre Ter, Los Angeles, CA 90068",
+    "Price": "$1,095,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1180,
+    "Image": "https://photos.zillowstatic.com/fp/d1c94c4da077f48382e04891319b415f-p_e.jpg",
+    "ZPID": "20803754"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/17405-Castellammare-Dr-Los-Angeles-CA-90272/135456584_zpid/",
+    "Address": "17405 Castellammare Dr, Los Angeles, CA 90272",
+    "Price": "$6,200,000",
+    "Beds": 3,
+    "Baths": 5,
+    "Area": 4036,
+    "Image": "https://photos.zillowstatic.com/fp/1df98f8d7f5361c25452a3ff3d0b0e37-p_e.jpg",
+    "ZPID": "135456584"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3921-Don-Diablo-Dr-Los-Angeles-CA-90008/20578309_zpid/",
+    "Address": "3921 Don Diablo Dr, Los Angeles, CA 90008",
+    "Price": "$958,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1805,
+    "Image": "https://photos.zillowstatic.com/fp/d1b7b531a70b75b25f4690965443dbb4-p_e.jpg",
+    "ZPID": "20578309"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10767-Massachusetts-Ave-Los-Angeles-CA-90024/20505259_zpid/",
+    "Address": "10767 Massachusetts Ave, Los Angeles, CA 90024",
+    "Price": "$1,995,000",
+    "Beds": 7,
+    "Baths": 5,
+    "Area": 3422,
+    "Image": "https://photos.zillowstatic.com/fp/176134bf86245f5826d2ea73f36a2fbf-p_e.jpg",
+    "ZPID": "20505259"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5152-Etiwanda-Ave-Tarzana-CA-91356/19949482_zpid/",
+    "Address": "5152 Etiwanda Ave, Tarzana, CA 91356",
+    "Price": "$1,999,999",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2636,
+    "Image": "https://photos.zillowstatic.com/fp/e68e5fc7b2d6bc44a157875e5dd0bfde-p_e.jpg",
+    "ZPID": "19949482"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16500-McKeever-St-Granada-Hills-CA-91344/20147119_zpid/",
+    "Address": "16500 McKeever St, Granada Hills, CA 91344",
+    "Price": "$820,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1325,
+    "Image": "https://photos.zillowstatic.com/fp/426485e95b4b67f4b046d7eb18ea629f-p_e.jpg",
+    "ZPID": "20147119"
+  },
+  {
+    "URL": "https://www.zillow.com/b/315-e-8th-st-los-angeles-ca-5XmHD7/",
+    "Address": "315 E 8th St, Los Angeles, CA",
+    "Price": "From $400,000",
+    "Image": "https://photos.zillowstatic.com/fp/55cf992d679d7703b3b80fb941cfd716-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11600-Amanda-Dr-Studio-City-CA-91604/20030035_zpid/",
+    "Address": "11600 Amanda Dr, Studio City, CA 91604",
+    "Price": "$6,500,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4002,
+    "Image": "https://photos.zillowstatic.com/fp/74b13c55cae300728244ffd845107f90-p_e.jpg",
+    "ZPID": "20030035"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6171-Cleon-Ave-North-Hollywood-CA-91606/20039293_zpid/",
+    "Address": "6171 Cleon Ave, North Hollywood, CA 91606",
+    "Price": "$950,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2300,
+    "Image": "https://photos.zillowstatic.com/fp/d8dfc2365de84ae2d98f6f118db63873-p_e.jpg",
+    "ZPID": "20039293"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/358-S-Sycamore-Ave-Los-Angeles-CA-90036/20775490_zpid/",
+    "Address": "358 S Sycamore Ave, Los Angeles, CA 90036",
+    "Price": "$2,650,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2503,
+    "Image": "https://photos.zillowstatic.com/fp/14f3d438d3fc058b3f18df557b384cc6-p_e.jpg",
+    "ZPID": "20775490"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1103-S-Westgate-Ave-APT-1-Los-Angeles-CA-90049/20468569_zpid/",
+    "Address": "1103 S Westgate Ave APT 1, Los Angeles, CA 90049",
+    "Price": "$998,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1393,
+    "Image": "https://photos.zillowstatic.com/fp/9f070f2836e1e5b0ae85534e0a602011-p_e.jpg",
+    "ZPID": "20468569"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15415-Milldale-Dr-Los-Angeles-CA-90077/20530780_zpid/",
+    "Address": "15415 Milldale Dr, Los Angeles, CA 90077",
+    "Price": "$3,295,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 2626,
+    "Image": "https://photos.zillowstatic.com/fp/cf20a81cd315f5496ae9583f649e1e16-p_e.jpg",
+    "ZPID": "20530780"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3818-Tracy-St-Los-Angeles-CA-90027/20748970_zpid/",
+    "Address": "3818 Tracy St, Los Angeles, CA 90027",
+    "Price": "$2,495,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2595,
+    "Image": "https://photos.zillowstatic.com/fp/e0a856d97c95d25645cc9d66f9e2bc23-p_e.jpg",
+    "ZPID": "20748970"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3314-Griffith-Park-Blvd-APT-3-Los-Angeles-CA-90027/20749182_zpid/",
+    "Address": "3314 Griffith Park Blvd APT 3, Los Angeles, CA 90027",
+    "Price": "$839,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1068,
+    "Image": "https://photos.zillowstatic.com/fp/2ded70d215884b6bb63a3e0ea0f7d3a7-p_e.jpg",
+    "ZPID": "20749182"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7630-Carmenita-Ln-Canoga-Park-CA-91304/19864772_zpid/",
+    "Address": "7630 Carmenita Ln, Canoga Park, CA 91304",
+    "Price": "$1,800,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4255,
+    "Image": "https://photos.zillowstatic.com/fp/f6d79c62a41183eaffddccc451c9003a-p_e.jpg",
+    "ZPID": "19864772"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/415-417-Euclid-Ave-Los-Angeles-CA-90063/2068370181_zpid/",
+    "Address": "415-417 Euclid Ave, Los Angeles, CA 90063",
+    "Price": "$599,999",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1447,
+    "Image": "https://photos.zillowstatic.com/fp/c320f37255329267c7faf5be8648e50c-p_e.jpg",
+    "ZPID": "2068370181"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1136-N-Doheny-Dr-Los-Angeles-CA-90069/95627958_zpid/",
+    "Address": "1136 N Doheny Dr, Los Angeles, CA 90069",
+    "Price": "$5,995,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 3216,
+    "Image": "https://photos.zillowstatic.com/fp/c28b3e8b2e7df54c372636d8a2df7017-p_e.jpg",
+    "ZPID": "95627958"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4838-Elmwood-Ave-APT-7-Los-Angeles-CA-90004/65248835_zpid/",
+    "Address": "4838 Elmwood Ave APT 7, Los Angeles, CA 90004",
+    "Price": "$849,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1452,
+    "Image": "https://photos.zillowstatic.com/fp/459cc84d325aad2b1c0a76c9a62b74f6-p_e.jpg",
+    "ZPID": "65248835"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11916-Gorham-Ave-APT-302-Los-Angeles-CA-90049/20469154_zpid/",
+    "Address": "11916 Gorham Ave APT 302, Los Angeles, CA 90049",
+    "Price": "$1,550,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1956,
+    "Image": "https://photos.zillowstatic.com/fp/b81fe42d067ddf7c6e51fcd41421a7ce-p_e.jpg",
+    "ZPID": "20469154"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1342-Woodruff-Ave-Los-Angeles-CA-90024/20506304_zpid/",
+    "Address": "1342 Woodruff Ave, Los Angeles, CA 90024",
+    "Price": "$2,750,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1784,
+    "Image": "https://photos.zillowstatic.com/fp/a160ebe6d98ffb951bcce690ea34d778-p_e.jpg",
+    "ZPID": "20506304"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4705-Los-Feliz-Blvd-Los-Angeles-CA-90027/63092003_zpid/",
+    "Address": "4705 Los Feliz Blvd, Los Angeles, CA 90027",
+    "Price": "$7,995,000",
+    "Beds": 7,
+    "Baths": 8,
+    "Area": 9633,
+    "Image": "https://photos.zillowstatic.com/fp/202d948dd0b4475956f4f473fce1a349-p_e.jpg",
+    "ZPID": "63092003"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/17401-Rancho-St-Encino-CA-91316/19993806_zpid/",
+    "Address": "17401 Rancho St, Encino, CA 91316",
+    "Price": "$5,899,999",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 5400,
+    "Image": "https://photos.zillowstatic.com/fp/2df4a0e3662b92735343dffa91a7c06f-p_e.jpg",
+    "ZPID": "19993806"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1501-Palos-Verdes-Dr-N-SPC-64-Harbor-City-CA-90710/136700829_zpid/",
+    "Address": "1501 Palos Verdes Dr N SPC 64, Harbor City, CA 90710",
+    "Price": "$310,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1276,
+    "Image": "https://photos.zillowstatic.com/fp/5bad916ff0f3d7541e4397f94476c3ef-p_e.jpg",
+    "ZPID": "136700829"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2536-Cotner-Ave-Los-Angeles-CA-90064/20462197_zpid/",
+    "Address": "2536 Cotner Ave, Los Angeles, CA 90064",
+    "Price": "$1,795,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 2319,
+    "Image": "https://photos.zillowstatic.com/fp/b3fed8d35c6f625ce79724648b7655cd-p_e.jpg",
+    "ZPID": "20462197"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10320-Mississippi-Ave-Los-Angeles-CA-90025/20500356_zpid/",
+    "Address": "10320 Mississippi Ave, Los Angeles, CA 90025",
+    "Price": "$2,299,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2336,
+    "Image": "https://photos.zillowstatic.com/fp/8c7d44a1f9c5ce4392f218afa93ad7a4-p_e.jpg",
+    "ZPID": "20500356"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5052-Newcastle-Ave-Encino-CA-91316/19950150_zpid/",
+    "Address": "5052 Newcastle Ave, Encino, CA 91316",
+    "Price": "$1,195,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2079,
+    "Image": "https://photos.zillowstatic.com/fp/3e458562176f8bf687f89b513b0be72b-p_e.jpg",
+    "ZPID": "19950150"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6539-Ventura-Canyon-Ave-Van-Nuys-CA-91401/20007140_zpid/",
+    "Address": "6539 Ventura Canyon Ave, Van Nuys, CA 91401",
+    "Price": "$899,998",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1822,
+    "Image": "https://photos.zillowstatic.com/fp/ca6d34f1d6e6b47d73851bd231003a8d-p_e.jpg",
+    "ZPID": "20007140"
+  },
+  {
+    "URL": "https://www.zillow.com/b/24425-woolsey-canyon-rd-canoga-park-ca-5Xp9nS/",
+    "Address": "24425 Woolsey Canyon Rd, Canoga Park, CA",
+    "Price": "From $110,000",
+    "Image": "https://photos.zillowstatic.com/fp/c10caf5d2ba4a1bddf5a310bf3f8b60b-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5196-Brian-Ln-Encino-CA-91436/19980769_zpid/",
+    "Address": "5196 Brian Ln, Encino, CA 91436",
+    "Price": "$1,699,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2677,
+    "Image": "https://photos.zillowstatic.com/fp/52115df6c12d234edb7730a324229a29-p_e.jpg",
+    "ZPID": "19980769"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4830-Valjean-Ave-Encino-CA-91436/19980685_zpid/",
+    "Address": "4830 Valjean Ave, Encino, CA 91436",
+    "Price": "$4,349,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 5278,
+    "Image": "https://photos.zillowstatic.com/fp/6b45d1f417d950f1dd108a2f240e8538-p_e.jpg",
+    "ZPID": "19980685"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3405-Fryman-Rd-Studio-City-CA-91604/20029903_zpid/",
+    "Address": "3405 Fryman Rd, Studio City, CA 91604",
+    "Price": "$42,000,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 17627,
+    "Image": "https://photos.zillowstatic.com/fp/867969b7516cc9b5ca5607ce2e07e20b-p_e.jpg",
+    "ZPID": "20029903"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8018-S-New-Hampshire-Ave-Los-Angeles-CA-90044/20947820_zpid/",
+    "Address": "8018 S New Hampshire Ave, Los Angeles, CA 90044",
+    "Price": "$1,695,000",
+    "Beds": 8,
+    "Baths": 4,
+    "Area": 3906,
+    "Image": "https://photos.zillowstatic.com/fp/e4c8f2b9e770a9ece1e68edb6a81080e-p_e.jpg",
+    "ZPID": "20947820"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/655-N-Faring-Rd-Los-Angeles-CA-90077/20523911_zpid/",
+    "Address": "655 N Faring Rd, Los Angeles, CA 90077",
+    "Price": "$19,995,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 6789,
+    "Image": "https://photos.zillowstatic.com/fp/58707acf924810e43b382e1af8b66d85-p_e.jpg",
+    "ZPID": "20523911"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1072-Amalfi-Dr-Pacific-Palisades-CA-90272/20546294_zpid/",
+    "Address": "1072 Amalfi Dr, Pacific Palisades, CA 90272",
+    "Price": "$21,995,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 10587,
+    "Image": "https://photos.zillowstatic.com/fp/5f0f1d5bf3289d18574df439050d0813-p_e.jpg",
+    "ZPID": "20546294"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1331-12th-Ave-Los-Angeles-CA-90019/20602166_zpid/",
+    "Address": "1331 12th Ave, Los Angeles, CA 90019",
+    "Price": "$850,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 1050,
+    "Image": "https://photos.zillowstatic.com/fp/47e8c01ecf9c37087ce5546c8a888166-p_e.jpg",
+    "ZPID": "20602166"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5224-Denny-Ave-APT-209-North-Hollywood-CA-91601/89144774_zpid/",
+    "Address": "5224 Denny Ave APT 209, North Hollywood, CA 91601",
+    "Price": "$445,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 830,
+    "Image": "https://photos.zillowstatic.com/fp/e6fc884da694f1d115df49bb42976235-p_e.jpg",
+    "ZPID": "89144774"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4214-Tosca-Rd-Woodland-Hills-CA-91364/19945282_zpid/",
+    "Address": "4214 Tosca Rd, Woodland Hills, CA 91364",
+    "Price": "$899,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1283,
+    "Image": "https://photos.zillowstatic.com/fp/f0726dced3ee1a9d3c4593c0333273ba-p_e.jpg",
+    "ZPID": "19945282"
+  },
+  {
+    "URL": "https://www.zillow.com/b/900-w-olympic-blvd-los-angeles-ca-CpTqbJ/",
+    "Address": "900 W Olympic Blvd, Los Angeles, CA",
+    "Price": "From $949,888",
+    "Image": "https://photos.zillowstatic.com/fp/91f3167d49a84a9bff657f20dc98aa1b-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/541-S-Westgate-Ave-Los-Angeles-CA-90049/20537511_zpid/",
+    "Address": "541 S Westgate Ave, Los Angeles, CA 90049",
+    "Price": "$7,800,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 4064,
+    "Image": "https://photos.zillowstatic.com/fp/bbf5037512e77b922b0b77374f269011-p_e.jpg",
+    "ZPID": "20537511"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/0-Apn-11-Quail-Valley-CA-92587/458480786_zpid/",
+    "Address": "0 Apn #11, Quail Valley, CA 92587",
+    "Price": "$39,000",
+    "Image": "https://photos.zillowstatic.com/fp/1dd8e623730a9f68d3f240d8d47cf8b4-p_e.jpg",
+    "ZPID": "458480786"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11324-W-Raitt-Ln-North-Hollywood-CA-91606/443777550_zpid/",
+    "Address": "11324 W Raitt Ln, North Hollywood, CA 91606",
+    "Price": "$874,999",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 1847,
+    "Image": "https://photos.zillowstatic.com/fp/4c85b95ada0f1d7cc4aa3aeefe3822e5-p_e.jpg",
+    "ZPID": "443777550"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3838-Buena-Park-Dr-Studio-City-CA-91604/20028273_zpid/",
+    "Address": "3838 Buena Park Dr, Studio City, CA 91604",
+    "Price": "$1,699,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1616,
+    "Image": "https://photos.zillowstatic.com/fp/ca61c9c9aaa522827dee6f3fb8168409-p_e.jpg",
+    "ZPID": "20028273"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/691-Santa-Clara-Ave-Venice-CA-90291/20451196_zpid/",
+    "Address": "691 Santa Clara Ave, Venice, CA 90291",
+    "Price": "$1,524,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1520,
+    "Image": "https://photos.zillowstatic.com/fp/f2d813b748cafa1c9b5a0dcad189d99f-p_e.jpg",
+    "ZPID": "20451196"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2627-S-Cloverdale-Ave-Los-Angeles-CA-90016/20584893_zpid/",
+    "Address": "2627 S Cloverdale Ave, Los Angeles, CA 90016",
+    "Price": "$948,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1175,
+    "Image": "https://photos.zillowstatic.com/fp/d8178f15970adbb72ed6cc2eaf303572-p_e.jpg",
+    "ZPID": "20584893"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/333-S-Wilton-Pl-APT-2-Los-Angeles-CA-90020/89150627_zpid/",
+    "Address": "333 S Wilton Pl APT 2, Los Angeles, CA 90020",
+    "Price": "$925,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1478,
+    "Image": "https://photos.zillowstatic.com/fp/c3258861e9f02522d07588e1644f0dec-p_e.jpg",
+    "ZPID": "89150627"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2477-Coolidge-Ave-Los-Angeles-CA-90064/20464924_zpid/",
+    "Address": "2477 Coolidge Ave, Los Angeles, CA 90064",
+    "Price": "$1,600,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2633,
+    "Image": "https://photos.zillowstatic.com/fp/5ddc3fff0c4051dabf2e460f164135e1-p_e.jpg",
+    "ZPID": "20464924"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/24200-Post-Master-Ave-Harbor-City-CA-90710/21300284_zpid/",
+    "Address": "24200 Post Master Ave, Harbor City, CA 90710",
+    "Price": "$799,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1263,
+    "Image": "https://photos.zillowstatic.com/fp/30173d98c5cb201f5118819e816c3f2d-p_e.jpg",
+    "ZPID": "21300284"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1509-Amalfi-Dr-Pacific-Palisades-CA-90272/440846980_zpid/",
+    "Address": "1509 Amalfi Dr, Pacific Palisades, CA 90272",
+    "Price": "$16,600,000",
+    "Beds": 6,
+    "Baths": 8,
+    "Area": 5224,
+    "Image": "https://photos.zillowstatic.com/fp/fd59c26973c218d19827e70265e3e347-p_e.jpg",
+    "ZPID": "440846980"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/707-Jacon-Way-Pacific-Palisades-CA-90272/20543614_zpid/",
+    "Address": "707 Jacon Way, Pacific Palisades, CA 90272",
+    "Price": "$2,395,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2320,
+    "Image": "https://photos.zillowstatic.com/fp/198958cefed9ffa0ed162c75b852fb64-p_e.jpg",
+    "ZPID": "20543614"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/15936-Valley-Wood-Rd-Sherman-Oaks-CA-91403/19990652_zpid/",
+    "Address": "15936 Valley Wood Rd, Sherman Oaks, CA 91403",
+    "Price": "$2,600,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2700,
+    "Image": "https://photos.zillowstatic.com/fp/074521c671e82adacb536002404ea7bb-p_e.jpg",
+    "ZPID": "19990652"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13320-Mulholland-Dr-Beverly-Hills-CA-90210/20533183_zpid/",
+    "Address": "13320 Mulholland Dr, Beverly Hills, CA 90210",
+    "Price": "$6,025,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 9375,
+    "Image": "https://photos.zillowstatic.com/fp/5260ad529b110eada1c2421605d85bf4-p_e.jpg",
+    "ZPID": "20533183"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2260-N-Cahuenga-Blvd-APT-502-Los-Angeles-CA-90068/20804064_zpid/",
+    "Address": "2260 N Cahuenga Blvd APT 502, Los Angeles, CA 90068",
+    "Price": "$499,999",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1258,
+    "Image": "https://photos.zillowstatic.com/fp/1b99389b941250cd4ac768ea547cd292-p_e.jpg",
+    "ZPID": "20804064"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1635-Woods-Dr-Los-Angeles-CA-90069/65242987_zpid/",
+    "Address": "1635 Woods Dr, Los Angeles, CA 90069",
+    "Price": "$25,000,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 2200,
+    "Image": "https://photos.zillowstatic.com/fp/d41344604a6dceefb89906117c42d4e0-p_e.jpg",
+    "ZPID": "65242987"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/596-Quail-Dr-Los-Angeles-CA-90065/95600242_zpid/",
+    "Address": "596 Quail Dr, Los Angeles, CA 90065",
+    "Price": "$1,497,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1452,
+    "Image": "https://photos.zillowstatic.com/fp/30ce7b70158ec6f2743255364df4827a-p_e.jpg",
+    "ZPID": "95600242"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5550-Fallbrook-Ave-Woodland-Hills-CA-91367/19878043_zpid/",
+    "Address": "5550 Fallbrook Ave, Woodland Hills, CA 91367",
+    "Price": "$950,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1660,
+    "Image": "https://photos.zillowstatic.com/fp/0e0daa5a6e069dc44379fd77071e0387-p_e.jpg",
+    "ZPID": "19878043"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/748-Brooks-Ave-Venice-CA-90291/302794413_zpid/",
+    "Address": "748 Brooks Ave, Venice, CA 90291",
+    "Price": "$1,995,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2208,
+    "Image": "https://photos.zillowstatic.com/fp/7451d1e1b8f78dc720fed6d473fa7a9f-p_e.jpg",
+    "ZPID": "302794413"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/101-Ocean-Ave-UNIT-A100-Santa-Monica-CA-90402/20539714_zpid/",
+    "Address": "101 Ocean Ave UNIT A100, Santa Monica, CA 90402",
+    "Price": "$11,999,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 4148,
+    "Image": "https://photos.zillowstatic.com/fp/f1ae0a372f9e10a56ad98f13b5936f84-p_e.jpg",
+    "ZPID": "20539714"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7053-Sunnycrest-Trl-Tujunga-CA-91042/20098888_zpid/",
+    "Address": "7053 Sunnycrest Trl, Tujunga, CA 91042",
+    "Price": "$525,000",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 788,
+    "Image": "https://photos.zillowstatic.com/fp/1ba699ccc3498fb59ec9fb68cab122ff-p_e.jpg",
+    "ZPID": "20098888"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3320-Reynolds-Ave-Los-Angeles-CA-90032/20689540_zpid/",
+    "Address": "3320 Reynolds Ave, Los Angeles, CA 90032",
+    "Price": "$789,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 882,
+    "Image": "https://photos.zillowstatic.com/fp/5e0c1f65f8f7a1e41a3a4e9bde5f6a59-p_e.jpg",
+    "ZPID": "20689540"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1416-255th-St-Harbor-City-CA-90710/21290145_zpid/",
+    "Address": "1416 255th St, Harbor City, CA 90710",
+    "Price": "$895,000",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 2116,
+    "Image": "https://photos.zillowstatic.com/fp/055cdd88c67a09a0cc18015cd0eaa8fa-p_e.jpg",
+    "ZPID": "21290145"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1274-S-Redondo-Blvd-Los-Angeles-CA-90019/20601017_zpid/",
+    "Address": "1274 S Redondo Blvd, Los Angeles, CA 90019",
+    "Price": "$1,595,000",
+    "Beds": 6,
+    "Baths": 4,
+    "Area": 3841,
+    "Image": "https://photos.zillowstatic.com/fp/fd80dda15326fd3afe9292fa22479eef-p_e.jpg",
+    "ZPID": "20601017"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9928-Toluca-Lake-Ave-North-Hollywood-CA-91602/20044683_zpid/",
+    "Address": "9928 Toluca Lake Ave, North Hollywood, CA 91602",
+    "Price": "$11,288,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 5684,
+    "Image": "https://photos.zillowstatic.com/fp/2f2cd615aab191e8259ec5188a1883f7-p_e.jpg",
+    "ZPID": "20044683"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/379-N-Wilton-Pl-Los-Angeles-CA-90004/20782168_zpid/",
+    "Address": "379 N Wilton Pl, Los Angeles, CA 90004",
+    "Price": "$2,100,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2574,
+    "Image": "https://photos.zillowstatic.com/fp/9d34f70189bc59bde3cc3970a9851d9d-p_e.jpg",
+    "ZPID": "20782168"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1247-N-Bundy-Dr-Los-Angeles-CA-90049/20559743_zpid/",
+    "Address": "1247 N Bundy Dr, Los Angeles, CA 90049",
+    "Price": "$2,149,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2055,
+    "Image": "https://photos.zillowstatic.com/fp/54a0dfb2d0bbdf1b1f790a19abc53e8c-p_e.jpg",
+    "ZPID": "20559743"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14388-Beaver-St-Sylmar-CA-91342/20071790_zpid/",
+    "Address": "14388 Beaver St, Sylmar, CA 91342",
+    "Price": "$799,999",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1425,
+    "Image": "https://photos.zillowstatic.com/fp/2a6a35552ac5fc664135c40124be3619-p_e.jpg",
+    "ZPID": "20071790"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3124-Veteran-Ave-Los-Angeles-CA-90034/20460965_zpid/",
+    "Address": "3124 Veteran Ave, Los Angeles, CA 90034",
+    "Price": "$1,595,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1566,
+    "Image": "https://photos.zillowstatic.com/fp/8c32cb2a0f19492a105b4234db984bb5-p_e.jpg",
+    "ZPID": "20460965"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9919-Girla-Way-Los-Angeles-CA-90064/20494313_zpid/",
+    "Address": "9919 Girla Way, Los Angeles, CA 90064",
+    "Price": "$7,095,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 6755,
+    "Image": "https://photos.zillowstatic.com/fp/ecf7a21ded1c4f445f2967adf8ed528b-p_e.jpg",
+    "ZPID": "20494313"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6253-Hollywood-Blvd-APT-309-Los-Angeles-CA-90028/82582483_zpid/",
+    "Address": "6253 Hollywood Blvd APT 309, Los Angeles, CA 90028",
+    "Price": "$420,000",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 850,
+    "Image": "https://photos.zillowstatic.com/fp/6c8878db8f2e6b645e46ad5e5869b5b6-p_e.jpg",
+    "ZPID": "82582483"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14457-Glorietta-Dr-Sherman-Oaks-CA-91423/19987698_zpid/",
+    "Address": "14457 Glorietta Dr, Sherman Oaks, CA 91423",
+    "Price": "$1,795,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1855,
+    "Image": "https://photos.zillowstatic.com/fp/1fbff66fcb84b674b146b48408a3d975-p_e.jpg",
+    "ZPID": "19987698"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12616-Terra-Bella-St-Pacoima-CA-91331/20087906_zpid/",
+    "Address": "12616 Terra Bella St, Pacoima, CA 91331",
+    "Price": "$849,000",
+    "Beds": 6,
+    "Baths": 4,
+    "Area": 2543,
+    "Image": "https://photos.zillowstatic.com/fp/2fbd3e7e580d7f42e5f6360bff12047c-p_e.jpg",
+    "ZPID": "20087906"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7638-Valmont-St-Tujunga-CA-91042/20095982_zpid/",
+    "Address": "7638 Valmont St, Tujunga, CA 91042",
+    "Price": "$689,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 826,
+    "Image": "https://photos.zillowstatic.com/fp/9965cfb4d1ddcd0873911e421cb098d9-p_e.jpg",
+    "ZPID": "20095982"
+  },
+  {
+    "URL": "https://www.zillow.com/b/15044-nordhoff-st-north-hills-ca-9MY2kB/",
+    "Address": "15044 Nordhoff St, North Hills, CA",
+    "Price": "From $475,000",
+    "Image": "https://photos.zillowstatic.com/fp/f38a44cf2bd100da80313ed04f53d134-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7305-Pyramid-Pl-Los-Angeles-CA-90046/95637520_zpid/",
+    "Address": "7305 Pyramid Pl, Los Angeles, CA 90046",
+    "Price": "$17,888,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 9200,
+    "Image": "https://photos.zillowstatic.com/fp/dc79544f2e47280553fc8f0a0e967012-p_e.jpg",
+    "ZPID": "95637520"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8229-S-Mariposa-Ave-Los-Angeles-CA-90044/20947208_zpid/",
+    "Address": "8229 S Mariposa Ave, Los Angeles, CA 90044",
+    "Price": "$790,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1254,
+    "Image": "https://photos.zillowstatic.com/fp/dc5ab44cf0301efb033b70dbd3be31fc-p_e.jpg",
+    "ZPID": "20947208"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5049-San-Rafael-Ave-Los-Angeles-CA-90042/20762440_zpid/",
+    "Address": "5049 San Rafael Ave, Los Angeles, CA 90042",
+    "Price": "$1,249,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1569,
+    "Image": "https://photos.zillowstatic.com/fp/aa38f71628762cff53c24d3115326678-p_e.jpg",
+    "ZPID": "20762440"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1921-Bel-Air-Rd-Los-Angeles-CA-90077/20529505_zpid/",
+    "Address": "1921 Bel Air Rd, Los Angeles, CA 90077",
+    "Price": "$8,300,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 8034,
+    "Image": "https://photos.zillowstatic.com/fp/c118da339d0b2e4fd4d7bbc4f79e9ffa-p_e.jpg",
+    "ZPID": "20529505"
+  },
+  {
+    "URL": "https://www.zillow.com/b/532-n-rossmore-ave-los-angeles-ca-5Xkz8N/",
+    "Address": "532 N Rossmore Ave, Los Angeles, CA",
+    "Price": "From $499,000",
+    "Image": "https://photos.zillowstatic.com/fp/55fb1ecaa6ca4478bb0e9f5f0c89e6e8-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2500-Anabas-Ave-San-Pedro-CA-90732/21353800_zpid/",
+    "Address": "2500 Anabas Ave, San Pedro, CA 90732",
+    "Price": "$1,995,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4328,
+    "Image": "https://photos.zillowstatic.com/fp/6c2a7a6e30bf4e0df82b44acf1c7e843-p_e.jpg",
+    "ZPID": "21353800"
+  },
+  {
+    "URL": "https://www.zillow.com/b/11645-montana-ave-los-angeles-ca-5XmMfJ/",
+    "Address": "11645 Montana Ave, Los Angeles, CA",
+    "Price": "From $550,000",
+    "Image": "https://photos.zillowstatic.com/fp/450261bc0a2224c792ccc428ead02de6-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9405-Sierra-Mar-Pl-Los-Angeles-CA-90069/20534794_zpid/",
+    "Address": "9405 Sierra Mar Pl, Los Angeles, CA 90069",
+    "Price": "$12,999,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 6618,
+    "Image": "https://photos.zillowstatic.com/fp/f4ef987b7fbffdd7c32c8d8155e358ad-p_e.jpg",
+    "ZPID": "20534794"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10358-Las-Lunitas-Ave-Tujunga-CA-91042/20098526_zpid/",
+    "Address": "10358 Las Lunitas Ave, Tujunga, CA 91042",
+    "Price": "$649,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1584,
+    "Image": "https://photos.zillowstatic.com/fp/fb81c4aaa940f4b4a5c61a3953839d4e-p_e.jpg",
+    "ZPID": "20098526"
+  },
+  {
+    "URL": "https://www.zillow.com/b/building/34.181053,-118.37924_ll/",
+    "Address": "11410 W Calvert St, North Hollywood, CA",
+    "Price": "From $979,000",
+    "Image": "https://photos.zillowstatic.com/fp/e6e303902b79540ebd4d823e1aa9c8fa-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4532-Calhoun-Ave-Sherman-Oaks-CA-91423/19984449_zpid/",
+    "Address": "4532 Calhoun Ave, Sherman Oaks, CA 91423",
+    "Price": "$2,999,500",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 3957,
+    "Image": "https://photos.zillowstatic.com/fp/688be6ec37e0d2093acbc24d2524be90-p_e.jpg",
+    "ZPID": "19984449"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3744-Vineland-Ave-Studio-City-CA-91604/20030336_zpid/",
+    "Address": "3744 Vineland Ave, Studio City, CA 91604",
+    "Price": "$1,999,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 2470,
+    "Image": "https://photos.zillowstatic.com/fp/e5c20dbcd65705c75e81da5ab572743f-p_e.jpg",
+    "ZPID": "20030336"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7-Latimer-Rd-Santa-Monica-CA-90402/20539625_zpid/",
+    "Address": "7 Latimer Rd, Santa Monica, CA 90402",
+    "Price": "$11,995,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 4178,
+    "Image": "https://photos.zillowstatic.com/fp/dafbde890503caaf1a1e7c069d02128f-p_e.jpg",
+    "ZPID": "20539625"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5244-Tampa-Ave-Tarzana-CA-91356/19940393_zpid/",
+    "Address": "5244 Tampa Ave, Tarzana, CA 91356",
+    "Price": "$5,149,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 6687,
+    "Image": "https://photos.zillowstatic.com/fp/4adbaf56a930c130e694473550098446-p_e.jpg",
+    "ZPID": "19940393"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7560-Woodman-Pl-SPC-58-Van-Nuys-CA-91405/136686859_zpid/",
+    "Address": "7560 Woodman Pl SPC 58, Van Nuys, CA 91405",
+    "Price": "$142,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 600,
+    "Image": "https://photos.zillowstatic.com/fp/644fe5678469c70de7b69ad97816465e-p_e.jpg",
+    "ZPID": "136686859"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5470-Los-Feliz-Blvd-Los-Angeles-CA-90027/20808461_zpid/",
+    "Address": "5470 Los Feliz Blvd, Los Angeles, CA 90027",
+    "Price": "$4,500,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 5866,
+    "Image": "https://photos.zillowstatic.com/fp/82d7d49642c32babee0b4f41a816ca7c-p_e.jpg",
+    "ZPID": "20808461"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1957-Linda-Flora-Dr-Los-Angeles-CA-90077/20529995_zpid/",
+    "Address": "1957 Linda Flora Dr, Los Angeles, CA 90077",
+    "Price": "$4,999,999",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 5536,
+    "Image": "https://photos.zillowstatic.com/fp/da89bddafeded7db3fd65e65303b8d20-p_e.jpg",
+    "ZPID": "20529995"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1262-Lagoon-Ave-Wilmington-CA-90744/21295468_zpid/",
+    "Address": "1262 Lagoon Ave, Wilmington, CA 90744",
+    "Price": "$899,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 1720,
+    "Image": "https://photos.zillowstatic.com/fp/36210301e3bb98c0604a80579032bf0e-p_e.jpg",
+    "ZPID": "21295468"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12642-Ralston-Ave-UNIT-1-Sylmar-CA-91342/72096688_zpid/",
+    "Address": "12642 Ralston Ave UNIT 1, Sylmar, CA 91342",
+    "Price": "$719,990",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2032,
+    "Image": "https://photos.zillowstatic.com/fp/d211379cdbf182ae6a5a4dfa7b8961e9-p_e.jpg",
+    "ZPID": "72096688"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7806-S-Denker-Ave-Los-Angeles-CA-90047/20938483_zpid/",
+    "Address": "7806 S Denker Ave, Los Angeles, CA 90047",
+    "Price": "$749,999",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1115,
+    "Image": "https://photos.zillowstatic.com/fp/e85e03b793b2afcc986827db33a5874a-p_e.jpg",
+    "ZPID": "20938483"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11332-Chenault-St-Los-Angeles-CA-90049/20527286_zpid/",
+    "Address": "11332 Chenault St, Los Angeles, CA 90049",
+    "Price": "$1,995,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2154,
+    "Image": "https://photos.zillowstatic.com/fp/0bbcc983d040d1aaffd0f93539b2db60-p_e.jpg",
+    "ZPID": "20527286"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11010-Chalon-Rd-Los-Angeles-CA-90077/20529050_zpid/",
+    "Address": "11010 Chalon Rd, Los Angeles, CA 90077",
+    "Price": "$5,380,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4664,
+    "Image": "https://photos.zillowstatic.com/fp/562647d8c7ec59d760ada4cf2d8ba435-p_e.jpg",
+    "ZPID": "20529050"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12119-Falcon-Crest-Way-Porter-Ranch-CA-91326/20155871_zpid/",
+    "Address": "12119 Falcon Crest Way, Porter Ranch, CA 91326",
+    "Price": "$1,150,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2231,
+    "Image": "https://photos.zillowstatic.com/fp/9adb5ab26e156a8e1984fbdee4a2358e-p_e.jpg",
+    "ZPID": "20155871"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13438-Mercer-St-Pacoima-CA-91331/20115557_zpid/",
+    "Address": "13438 Mercer St, Pacoima, CA 91331",
+    "Price": "$799,900",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1518,
+    "Image": "https://photos.zillowstatic.com/fp/524e729c33282ea9401e909b26ab4c89-p_e.jpg",
+    "ZPID": "20115557"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1805-Outpost-Dr-Los-Angeles-CA-90068/2128013275_zpid/",
+    "Address": "1805 Outpost Dr, Los Angeles, CA 90068",
+    "Price": "$4,200,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4712,
+    "Image": "https://photos.zillowstatic.com/fp/08bc62b534774f216fd5dd49d4c33aa3-p_e.jpg",
+    "ZPID": "2128013275"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5952-Lubao-Ave-Woodland-Hills-CA-91367/19932529_zpid/",
+    "Address": "5952 Lubao Ave, Woodland Hills, CA 91367",
+    "Price": "$2,595,000",
+    "Beds": 7,
+    "Baths": 7,
+    "Area": 4809,
+    "Image": "https://photos.zillowstatic.com/fp/5300f968bb904c9f93cb018ff73e0631-p_e.jpg",
+    "ZPID": "19932529"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1706-W-65th-Pl-Los-Angeles-CA-90047/20935678_zpid/",
+    "Address": "1706 W 65th Pl, Los Angeles, CA 90047",
+    "Price": "$600,000",
+    "Beds": 3,
+    "Baths": 1,
+    "Area": 1040,
+    "Image": "https://photos.zillowstatic.com/fp/c5e12426227a403923c15cda5b055db9-p_e.jpg",
+    "ZPID": "20935678"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14235-Greenleaf-St-Sherman-Oaks-CA-91423/19984602_zpid/",
+    "Address": "14235 Greenleaf St, Sherman Oaks, CA 91423",
+    "Price": "$2,325,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2327,
+    "Image": "https://photos.zillowstatic.com/fp/907910e6e9fd22e7808dabaa79b15af7-p_e.jpg",
+    "ZPID": "19984602"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2143-N-Hobart-Blvd-Los-Angeles-CA-90027/20809540_zpid/",
+    "Address": "2143 N Hobart Blvd, Los Angeles, CA 90027",
+    "Price": "$3,298,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2766,
+    "Image": "https://photos.zillowstatic.com/fp/3aa1cc2c95a5e45f72f2f1c7aa61f2c6-p_e.jpg",
+    "ZPID": "20809540"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/21054-Parthenia-St-UNIT-11-Canoga-Park-CA-91304/20178845_zpid/",
+    "Address": "21054 Parthenia St UNIT 11, Canoga Park, CA 91304",
+    "Price": "$545,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1363,
+    "Image": "https://photos.zillowstatic.com/fp/2974f606e4bbfbf48ae99041567a501d-p_e.jpg",
+    "ZPID": "20178845"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12504-Kling-St-Studio-City-CA-91604/20023972_zpid/",
+    "Address": "12504 Kling St, Studio City, CA 91604",
+    "Price": "$1,650,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2427,
+    "Image": "https://photos.zillowstatic.com/fp/ed722d8c18ec7f49e718d6c0975e47ed-p_e.jpg",
+    "ZPID": "20023972"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10401-Willowbrae-Ave-Chatsworth-CA-91311/20162330_zpid/",
+    "Address": "10401 Willowbrae Ave, Chatsworth, CA 91311",
+    "Price": "$899,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1687,
+    "Image": "https://photos.zillowstatic.com/fp/62d608d70f0c7efd17b53bc2b706e9ed-p_e.jpg",
+    "ZPID": "20162330"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2563-Nichols-Canyon-Rd-Los-Angeles-CA-90046/20803181_zpid/",
+    "Address": "2563 Nichols Canyon Rd, Los Angeles, CA 90046",
+    "Price": "$9,995,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 4200,
+    "Image": "https://photos.zillowstatic.com/fp/1071383230e4b2389c654abaa442de9a-p_e.jpg",
+    "ZPID": "20803181"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3234-Hillock-Dr-Los-Angeles-CA-90068/20805107_zpid/",
+    "Address": "3234 Hillock Dr, Los Angeles, CA 90068",
+    "Price": "$1,569,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1703,
+    "Image": "https://photos.zillowstatic.com/fp/4677906c491a6972631d5f28191e8afc-p_e.jpg",
+    "ZPID": "20805107"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2717-Ellison-Dr-Beverly-Hills-CA-90210/20533320_zpid/",
+    "Address": "2717 Ellison Dr, Beverly Hills, CA 90210",
+    "Price": "$2,290,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2096,
+    "Image": "https://photos.zillowstatic.com/fp/79a1a1ec2b561093d6aeba1992d15fd0-p_e.jpg",
+    "ZPID": "20533320"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14365-Berg-St-Sylmar-CA-91342/20072265_zpid/",
+    "Address": "14365 Berg St, Sylmar, CA 91342",
+    "Price": "$1,199,000",
+    "Beds": 6,
+    "Baths": 4,
+    "Area": 2024,
+    "Image": "https://photos.zillowstatic.com/fp/fbf31d56a4475bd4b3fd05116c581f13-p_e.jpg",
+    "ZPID": "20072265"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1431-Silver-Lake-Blvd-Los-Angeles-CA-90026/20745013_zpid/",
+    "Address": "1431 Silver Lake Blvd, Los Angeles, CA 90026",
+    "Price": "$1,240,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2267,
+    "Image": "https://photos.zillowstatic.com/fp/7abfa0449351e7a463955569a3895fe7-p_e.jpg",
+    "ZPID": "20745013"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11474-Gladstone-Ave-Sylmar-CA-91342/20084135_zpid/",
+    "Address": "11474 Gladstone Ave, Sylmar, CA 91342",
+    "Price": "$840,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1605,
+    "Image": "https://photos.zillowstatic.com/fp/58165b43de3d38ecbcb05a11722f5dcf-p_e.jpg",
+    "ZPID": "20084135"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10697-Somma-Way-Los-Angeles-CA-90077/20529397_zpid/",
+    "Address": "10697 Somma Way, Los Angeles, CA 90077",
+    "Price": "$59,000,000",
+    "Beds": 8,
+    "Baths": 21,
+    "Area": 41000,
+    "Image": "https://photos.zillowstatic.com/fp/04f02de24014e1e3036791a5b7c65a4e-p_e.jpg",
+    "ZPID": "20529397"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1831-Prosser-Ave-APT-205-Los-Angeles-CA-90025/20501056_zpid/",
+    "Address": "1831 Prosser Ave APT 205, Los Angeles, CA 90025",
+    "Price": "$640,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 968,
+    "Image": "https://photos.zillowstatic.com/fp/f6ff8f06838a8eeb7a370c4177da6cd0-p_e.jpg",
+    "ZPID": "20501056"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6506-Babcock-Ave-North-Hollywood-CA-91606/20005284_zpid/",
+    "Address": "6506 Babcock Ave, North Hollywood, CA 91606",
+    "Price": "$719,900",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 888,
+    "Image": "https://photos.zillowstatic.com/fp/eb99d31fa7cc0835bd959da9a4d4e125-p_e.jpg",
+    "ZPID": "20005284"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1821-1-2-Westholme-1-2-Ave-Los-Angeles-CA-90025/452279517_zpid/",
+    "Address": "1821 1/2 Westholme 1/2 Ave, Los Angeles, CA 90025",
+    "Price": "$1,690,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 1910,
+    "Image": "https://photos.zillowstatic.com/fp/0d12446b98eff144c9dbdc79d55ac95f-p_e.jpg",
+    "ZPID": "452279517"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1682-San-Onofre-Dr-Pacific-Palisades-CA-90272/20546184_zpid/",
+    "Address": "1682 San Onofre Dr, Pacific Palisades, CA 90272",
+    "Price": "$20,990,000",
+    "Beds": 7,
+    "Baths": 11,
+    "Area": 10300,
+    "Image": "https://photos.zillowstatic.com/fp/14b6221638a7f24f734869a35c7d96b6-p_e.jpg",
+    "ZPID": "20546184"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1065-Lomita-Blvd-SPACE-25-Harbor-City-CA-90710/458569396_zpid/",
+    "Address": "1065 Lomita Blvd SPACE 25, Harbor City, CA 90710",
+    "Price": "$75,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1600,
+    "Image": "https://photos.zillowstatic.com/fp/63b64b46c42262198a80bac47d79addd-p_e.jpg",
+    "ZPID": "458569396"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7815-Denivelle-Rd-Sunland-CA-91040/20092127_zpid/",
+    "Address": "7815 Denivelle Rd, Sunland, CA 91040",
+    "Price": "$899,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1195,
+    "Image": "https://photos.zillowstatic.com/fp/51d12c7bbeb70139d3a15720d03fdb61-p_e.jpg",
+    "ZPID": "20092127"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4733-Bonvue-Ave-Los-Angeles-CA-90027/79796668_zpid/",
+    "Address": "4733 Bonvue Ave, Los Angeles, CA 90027",
+    "Price": "$9,495,000",
+    "Beds": 7,
+    "Baths": 12,
+    "Area": 12650,
+    "Image": "https://photos.zillowstatic.com/fp/bf7afbcca636e8f898044cec23c60c20-p_e.jpg",
+    "ZPID": "79796668"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1740-Bel-Air-Rd-Los-Angeles-CA-90077/20529675_zpid/",
+    "Address": "1740 Bel Air Rd, Los Angeles, CA 90077",
+    "Price": "$16,250,000",
+    "Beds": 7,
+    "Baths": 10,
+    "Area": 11104,
+    "Image": "https://photos.zillowstatic.com/fp/b87f498c6277f6ffb20b0f6d5086a01e-p_e.jpg",
+    "ZPID": "20529675"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10130-Gerald-Ave-North-Hills-CA-91343/20148870_zpid/",
+    "Address": "10130 Gerald Ave, North Hills, CA 91343",
+    "Price": "$860,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1830,
+    "Image": "https://photos.zillowstatic.com/fp/91617e3049744d4b3d52320d3f416be8-p_e.jpg",
+    "ZPID": "20148870"
+  },
+  {
+    "URL": "https://www.zillow.com/b/8250-lankershim-blvd-north-hollywood-ca-CjTDWR/",
+    "Address": "8250 Lankershim Blvd, North Hollywood, CA",
+    "Price": "From $99,950",
+    "Image": "https://photos.zillowstatic.com/fp/eda48e68fa1f81cb2323b04efd3eb4ea-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/700-Main-St-UNIT-15-Venice-CA-90291/82875218_zpid/",
+    "Address": "700 Main St UNIT 15, Venice, CA 90291",
+    "Price": "$1,845,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 2228,
+    "Image": "https://photos.zillowstatic.com/fp/9ef1ab57e0d912b116c1d6cf70b22c20-p_e.jpg",
+    "ZPID": "82875218"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11813-Killimore-Ave-Porter-Ranch-CA-91326/20235512_zpid/",
+    "Address": "11813 Killimore Ave, Porter Ranch, CA 91326",
+    "Price": "$1,599,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2646,
+    "Image": "https://photos.zillowstatic.com/fp/00051881bb19e977d1eef353f838a747-p_e.jpg",
+    "ZPID": "20235512"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2921-S-Pacific-Ave-San-Pedro-CA-90731/21313302_zpid/",
+    "Address": "2921 S Pacific Ave, San Pedro, CA 90731",
+    "Price": "$727,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 705,
+    "Image": "https://photos.zillowstatic.com/fp/f8e3352ff215a4515c19dbb409e0fe59-p_e.jpg",
+    "ZPID": "21313302"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14428-Rex-St-Sylmar-CA-91342/20069595_zpid/",
+    "Address": "14428 Rex St, Sylmar, CA 91342",
+    "Price": "$750,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 2046,
+    "Image": "https://photos.zillowstatic.com/fp/232bd87e8ac70ce787ea8d036d973b6d-p_e.jpg",
+    "ZPID": "20069595"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4731-Topanga-Canyon-Blvd-Woodland-Hills-CA-91364/19943852_zpid/",
+    "Address": "4731 Topanga Canyon Blvd, Woodland Hills, CA 91364",
+    "Price": "$1,545,000",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 2356,
+    "Image": "https://photos.zillowstatic.com/fp/9220f50a155cd6ca685bd2a69cea8b2d-p_e.jpg",
+    "ZPID": "19943852"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11601-Montana-Ave-APT-7-Los-Angeles-CA-90049/20535882_zpid/",
+    "Address": "11601 Montana Ave APT 7, Los Angeles, CA 90049",
+    "Price": "$1,299,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1591,
+    "Image": "https://photos.zillowstatic.com/fp/4601bcafcc273713c26fb83b8a8eb462-p_e.jpg",
+    "ZPID": "20535882"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16728-Morrison-St-Encino-CA-91436/19980103_zpid/",
+    "Address": "16728 Morrison St, Encino, CA 91436",
+    "Price": "$4,495,000",
+    "Beds": 7,
+    "Baths": 7,
+    "Area": 5600,
+    "Image": "https://photos.zillowstatic.com/fp/1086d7473143a6aec415e2429729d452-p_e.jpg",
+    "ZPID": "19980103"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1165-Somera-Rd-Los-Angeles-CA-90077/20529138_zpid/",
+    "Address": "1165 Somera Rd, Los Angeles, CA 90077",
+    "Price": "$55,000,000",
+    "Beds": 6,
+    "Baths": 10,
+    "Area": 18000,
+    "Image": "https://photos.zillowstatic.com/fp/7fab7e9309b1f2f0adeb457050067322-p_e.jpg",
+    "ZPID": "20529138"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14011-Magnolia-Blvd-Sherman-Oaks-CA-91423/19974733_zpid/",
+    "Address": "14011 Magnolia Blvd, Sherman Oaks, CA 91423",
+    "Price": "$1,995,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 3056,
+    "Image": "https://photos.zillowstatic.com/fp/9760c4ab656de1b40c332488e922949a-p_e.jpg",
+    "ZPID": "19974733"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2411-E-2nd-St-Los-Angeles-CA-90033/20631786_zpid/",
+    "Address": "2411 E 2nd St, Los Angeles, CA 90033",
+    "Price": "$575,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1162,
+    "Image": "https://photos.zillowstatic.com/fp/d6a0cbb9cdce0c6609f28ea12a06cec6-p_e.jpg",
+    "ZPID": "20631786"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/734-Palms-Blvd-Venice-CA-90291/20452085_zpid/",
+    "Address": "734 Palms Blvd, Venice, CA 90291",
+    "Price": "$5,495,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2880,
+    "Image": "https://photos.zillowstatic.com/fp/3ddda969c39b4997bf3145092d7566a7-p_e.jpg",
+    "ZPID": "20452085"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10396-Almayo-Ave-APT-5-Los-Angeles-CA-90064/20497296_zpid/",
+    "Address": "10396 Almayo Ave APT 5, Los Angeles, CA 90064",
+    "Price": "$839,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1402,
+    "Image": "https://photos.zillowstatic.com/fp/6baa779dddd84aa0b98df1c1fce6fb36-p_e.jpg",
+    "ZPID": "20497296"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/621-Isabel-St-Los-Angeles-CA-90065/20755783_zpid/",
+    "Address": "621 Isabel St, Los Angeles, CA 90065",
+    "Price": "$995,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1328,
+    "Image": "https://photos.zillowstatic.com/fp/cc58b8dc861c49fb641440afdac7535b-p_e.jpg",
+    "ZPID": "20755783"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6910-N-Tierno-Ln-Los-Angeles-CA-90038/325797095_zpid/",
+    "Address": "6910 N Tierno Ln, Los Angeles, CA 90038",
+    "Price": "$1,225,000",
+    "Beds": 3,
+    "Baths": 4,
+    "Area": 2237,
+    "Image": "https://photos.zillowstatic.com/fp/0b8b35de2768bac998a94d9579d7fbaa-p_e.jpg",
+    "ZPID": "325797095"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6563-Bianca-Ave-Van-Nuys-CA-91406/19965746_zpid/",
+    "Address": "6563 Bianca Ave, Van Nuys, CA 91406",
+    "Price": "$1,049,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1753,
+    "Image": "https://photos.zillowstatic.com/fp/54e76d9093fdff6514cfe2a5088a7606-p_e.jpg",
+    "ZPID": "19965746"
+  },
+  {
+    "URL": "https://www.zillow.com/b/211-elm-ct-los-angeles-ca-BdX5CY/",
+    "Address": "211 Elm Ct, Los Angeles, CA",
+    "Price": "From $2,029,000",
+    "Image": "https://photos.zillowstatic.com/fp/8f2c31255f29747eae06f4e34a69d248-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11623-Otsego-St-North-Hollywood-CA-91601/20018891_zpid/",
+    "Address": "11623 Otsego St, North Hollywood, CA 91601",
+    "Price": "$1,399,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1825,
+    "Image": "https://photos.zillowstatic.com/fp/6cc0819c07de335e8d38fc3bb151950a-p_e.jpg",
+    "ZPID": "20018891"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/701-N-Gaffey-Pl-San-Pedro-CA-90731/21305603_zpid/",
+    "Address": "701 N Gaffey Pl, San Pedro, CA 90731",
+    "Price": "$600,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 969,
+    "Image": "https://photos.zillowstatic.com/fp/3a09f4ce17a98dfc91e7f1773e0104c0-p_e.jpg",
+    "ZPID": "21305603"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2262-Stradella-Rd-Los-Angeles-CA-90077/20530364_zpid/",
+    "Address": "2262 Stradella Rd, Los Angeles, CA 90077",
+    "Price": "$4,295,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2269,
+    "Image": "https://photos.zillowstatic.com/fp/30e321cafb3731033e6b8141887d57b4-p_e.jpg",
+    "ZPID": "20530364"
+  },
+  {
+    "URL": "https://www.zillow.com/b/22117-burbank-blvd-woodland-hills-ca-5XkKfR/",
+    "Address": "22117 Burbank Blvd, Woodland Hills, CA",
+    "Price": "From $575,000",
+    "Image": "https://photos.zillowstatic.com/fp/173cc1f0cbd3d8d3b9a1c2a9f967f950-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5358-Inglewood-Blvd-Los-Angeles-CA-90230/20439966_zpid/",
+    "Address": "5358 Inglewood Blvd, Los Angeles, CA 90230",
+    "Price": "$1,099,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 850,
+    "Image": "https://photos.zillowstatic.com/fp/1cd52d2d8ad4af1d3bed02c4a15d5355-p_e.jpg",
+    "ZPID": "20439966"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11667-Burbank-Blvd-North-Hollywood-CA-91601/20013084_zpid/",
+    "Address": "11667 Burbank Blvd, North Hollywood, CA 91601",
+    "Price": "$895,000",
+    "Beds": 12,
+    "Baths": 10,
+    "Area": 2720,
+    "Image": "https://photos.zillowstatic.com/fp/fd3e8a3c1448f77ff71a78b00a99b3aa-p_e.jpg",
+    "ZPID": "20013084"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14332-Dickens-St-UNIT-10-Sherman-Oaks-CA-91423/19984713_zpid/",
+    "Address": "14332 Dickens St UNIT 10, Sherman Oaks, CA 91423",
+    "Price": "$799,998",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1631,
+    "Image": "https://photos.zillowstatic.com/fp/1b42e5ad0816cf9ecbd4a56824f42d61-p_e.jpg",
+    "ZPID": "19984713"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1814-Webster-Ave-Los-Angeles-CA-90026/20747856_zpid/",
+    "Address": "1814 Webster Ave, Los Angeles, CA 90026",
+    "Price": "$1,795,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1358,
+    "Image": "https://photos.zillowstatic.com/fp/ac8911f263a2c6b85275d4dabe14c1cd-p_e.jpg",
+    "ZPID": "20747856"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1715-259th-St-UNIT-18-Lomita-CA-90717/21348681_zpid/",
+    "Address": "1715 259th St UNIT 18, Lomita, CA 90717",
+    "Price": "$389,000",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 593,
+    "Image": "https://photos.zillowstatic.com/fp/e596e23a5d7caafd065f00b26dbe99e0-p_e.jpg",
+    "ZPID": "21348681"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5653-Shirley-Ave-Tarzana-CA-91356/95664581_zpid/",
+    "Address": "5653 Shirley Ave, Tarzana, CA 91356",
+    "Price": "$1,649,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2030,
+    "Image": "https://photos.zillowstatic.com/fp/ef4934999d595ee24cef0d795adea533-p_e.jpg",
+    "ZPID": "95664581"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/860-Wellesley-Ave-Los-Angeles-CA-90049/20467719_zpid/",
+    "Address": "860 Wellesley Ave, Los Angeles, CA 90049",
+    "Price": "$3,999,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4033,
+    "Image": "https://photos.zillowstatic.com/fp/64620349d176ac01697a5b6ad8ef6878-p_e.jpg",
+    "ZPID": "20467719"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3649-Glendon-Ave-APT-202-Los-Angeles-CA-90034/20460658_zpid/",
+    "Address": "3649 Glendon Ave APT 202, Los Angeles, CA 90034",
+    "Price": "$589,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1031,
+    "Image": "https://photos.zillowstatic.com/fp/c78421397eb1a7a2566afaaf2a374ffe-p_e.jpg",
+    "ZPID": "20460658"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6539-Blucher-Ave-Van-Nuys-CA-91406/19968346_zpid/",
+    "Address": "6539 Blucher Ave, Van Nuys, CA 91406",
+    "Price": "$984,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1329,
+    "Image": "https://photos.zillowstatic.com/fp/8112ed731d16f2bb7c7b0661c17d70af-p_e.jpg",
+    "ZPID": "19968346"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5101-Calatrana-Dr-Woodland-Hills-CA-91364/19942778_zpid/",
+    "Address": "5101 Calatrana Dr, Woodland Hills, CA 91364",
+    "Price": "$1,150,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1213,
+    "Image": "https://photos.zillowstatic.com/fp/6fd603c590b507e4b72c2a9c9356a6a0-p_e.jpg",
+    "ZPID": "19942778"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4206-Mercury-Ave-Los-Angeles-CA-90032/20689668_zpid/",
+    "Address": "4206 Mercury Ave, Los Angeles, CA 90032",
+    "Price": "$599,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 993,
+    "Image": "https://photos.zillowstatic.com/fp/cde320c5d940d2dc8151cd845d4f1ec2-p_e.jpg",
+    "ZPID": "20689668"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11531-Amanda-Dr-Studio-City-CA-91604/20030073_zpid/",
+    "Address": "11531 Amanda Dr, Studio City, CA 91604",
+    "Price": "$7,000,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 3738,
+    "Image": "https://photos.zillowstatic.com/fp/1a0d31e9f4b452348ebe336e60888d71-p_e.jpg",
+    "ZPID": "20030073"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5545-Canoga-Ave-APT-206-Woodland-Hills-CA-91367/79795770_zpid/",
+    "Address": "5545 Canoga Ave APT 206, Woodland Hills, CA 91367",
+    "Price": "$399,900",
+    "Beds": 1,
+    "Baths": 1,
+    "Area": 610,
+    "Image": "https://photos.zillowstatic.com/fp/aa306e5d2ac5a2bd8a542a30da06fcc3-p_e.jpg",
+    "ZPID": "79795770"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/835-Sunset-Ave-Venice-CA-90291/20453568_zpid/",
+    "Address": "835 Sunset Ave, Venice, CA 90291",
+    "Price": "$1,999,999",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2575,
+    "Image": "https://photos.zillowstatic.com/fp/5f0b1e973005d290ed5a692e07c25f8d-p_e.jpg",
+    "ZPID": "20453568"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4230-Canoga-Ave-Woodland-Hills-CA-91364/19945299_zpid/",
+    "Address": "4230 Canoga Ave, Woodland Hills, CA 91364",
+    "Price": "$1,049,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1738,
+    "Image": "https://photos.zillowstatic.com/fp/1fbb4db5f58a9dedac1d1d2a953bd0b6-p_e.jpg",
+    "ZPID": "19945299"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/250-S-Rockingham-Ave-Los-Angeles-CA-90049/20538460_zpid/",
+    "Address": "250 S Rockingham Ave, Los Angeles, CA 90049",
+    "Price": "$41,950,000",
+    "Beds": 7,
+    "Baths": 12,
+    "Area": 13500,
+    "Image": "https://photos.zillowstatic.com/fp/7815be2da4b2db0c851feef3081c9d5e-p_e.jpg",
+    "ZPID": "20538460"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3622-Tilden-Ave-Los-Angeles-CA-90034/20460204_zpid/",
+    "Address": "3622 Tilden Ave, Los Angeles, CA 90034",
+    "Price": "$2,250,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2120,
+    "Image": "https://photos.zillowstatic.com/fp/5d0fbd119e93e5d9a960e37598e9e3a5-p_e.jpg",
+    "ZPID": "20460204"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4122-S-Bronson-Ave-Los-Angeles-CA-90008/20575605_zpid/",
+    "Address": "4122 S Bronson Ave, Los Angeles, CA 90008",
+    "Price": "$970,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1729,
+    "Image": "https://photos.zillowstatic.com/fp/254c12270d6a920254094072241f2132-p_e.jpg",
+    "ZPID": "20575605"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/25640-President-Ave-Harbor-City-CA-90710/21290193_zpid/",
+    "Address": "25640 President Ave, Harbor City, CA 90710",
+    "Price": "$799,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1168,
+    "Image": "https://photos.zillowstatic.com/fp/035616e286360236847e8d2323a404e2-p_e.jpg",
+    "ZPID": "21290193"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1907-N-Curson-Ave-Los-Angeles-CA-90046/20803217_zpid/",
+    "Address": "1907 N Curson Ave, Los Angeles, CA 90046",
+    "Price": "$2,250,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 2214,
+    "Image": "https://photos.zillowstatic.com/fp/15328732b32514d73ae1276855e4521e-p_e.jpg",
+    "ZPID": "20803217"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7231-Balboa-Blvd-A-Lake-Balboa-CA-91406/19964209_zpid/",
+    "Address": "7231 Balboa Blvd #A, Lake Balboa, CA 91406",
+    "Price": "$599,900",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1741,
+    "Image": "https://photos.zillowstatic.com/fp/8ed7aba98b56760a3148a1353b0b3353-p_e.jpg",
+    "ZPID": "19964209"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10132-Wish-Ave-Northridge-CA-91325/20152710_zpid/",
+    "Address": "10132 Wish Ave, Northridge, CA 91325",
+    "Price": "$1,739,000",
+    "Beds": 4,
+    "Baths": 3,
+    "Area": 2805,
+    "Image": "https://photos.zillowstatic.com/fp/4e79658da57aa2b0aebe34ca1133e115-p_e.jpg",
+    "ZPID": "20152710"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2405-Clyde-Ave-Los-Angeles-CA-90016/20597387_zpid/",
+    "Address": "2405 Clyde Ave, Los Angeles, CA 90016",
+    "Price": "$998,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1508,
+    "Image": "https://photos.zillowstatic.com/fp/07008664dbcec30d90f5bbdb3c1db272-p_e.jpg",
+    "ZPID": "20597387"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/21500-Califa-St-UNIT-185-Woodland-Hills-CA-91367/19930602_zpid/",
+    "Address": "21500 Califa St UNIT 185, Woodland Hills, CA 91367",
+    "Price": "$799,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1455,
+    "Image": "https://photos.zillowstatic.com/fp/f9a4903a5abc7c231cf00baae559e88d-p_e.jpg",
+    "ZPID": "19930602"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/837-Linda-Flora-Dr-Los-Angeles-CA-90049/20528852_zpid/",
+    "Address": "837 Linda Flora Dr, Los Angeles, CA 90049",
+    "Price": "$2,290,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4790,
+    "Image": "https://photos.zillowstatic.com/fp/5745d94a2d422727328a14fa30372948-p_e.jpg",
+    "ZPID": "20528852"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11625-Texas-Ave-APT-101-Los-Angeles-CA-90025/20466793_zpid/",
+    "Address": "11625 Texas Ave APT 101, Los Angeles, CA 90025",
+    "Price": "$750,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1028,
+    "Image": "https://photos.zillowstatic.com/fp/ce5fed262b7f84f88e0e7c3cb1537675-p_e.jpg",
+    "ZPID": "20466793"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/330-W-11th-St-APT-703-Los-Angeles-CA-90015/2094614760_zpid/",
+    "Address": "330 W 11th St APT 703, Los Angeles, CA 90015",
+    "Price": "$675,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1571,
+    "Image": "https://photos.zillowstatic.com/fp/ae901dda4fbda1650766ab4e5cbeb15c-p_e.jpg",
+    "ZPID": "2094614760"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/333-S-Arden-Blvd-Los-Angeles-CA-90020/20775199_zpid/",
+    "Address": "333 S Arden Blvd, Los Angeles, CA 90020",
+    "Price": "$6,250,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 3878,
+    "Image": "https://photos.zillowstatic.com/fp/49e7d9eb865e069cf8e9615a0e088488-p_e.jpg",
+    "ZPID": "20775199"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4719-Tyrone-Ave-Sherman-Oaks-CA-91423/19974747_zpid/",
+    "Address": "4719 Tyrone Ave, Sherman Oaks, CA 91423",
+    "Price": "$1,449,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1754,
+    "Image": "https://photos.zillowstatic.com/fp/b452396b4debe5954838aa1bfe741d49-p_e.jpg",
+    "ZPID": "19974747"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5345-Encino-Ave-Encino-CA-91316/19978408_zpid/",
+    "Address": "5345 Encino Ave, Encino, CA 91316",
+    "Price": "$10,995,000",
+    "Beds": 7,
+    "Baths": 8,
+    "Area": 10281,
+    "Image": "https://photos.zillowstatic.com/fp/2d7ba63e918e63d77abdc03df52def5a-p_e.jpg",
+    "ZPID": "19978408"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1437-Belfast-Dr-Los-Angeles-CA-90069/20799022_zpid/",
+    "Address": "1437 Belfast Dr, Los Angeles, CA 90069",
+    "Price": "$5,995,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 4218,
+    "Image": "https://photos.zillowstatic.com/fp/3c3b898a98c575b09d343e37a07c576c-p_e.jpg",
+    "ZPID": "20799022"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/240-E-56th-St-Los-Angeles-CA-90011/20612737_zpid/",
+    "Address": "240 E 56th St, Los Angeles, CA 90011",
+    "Price": "$375,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 932,
+    "Image": "https://photos.zillowstatic.com/fp/918cdc9871e30871aeb84088d0bcb0a1-p_e.jpg",
+    "ZPID": "20612737"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11215-Wilbur-Ave-Northridge-CA-91326/79795713_zpid/",
+    "Address": "11215 Wilbur Ave, Northridge, CA 91326",
+    "Price": "$1,115,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 2432,
+    "Image": "https://photos.zillowstatic.com/fp/32066ae66f1e4de22788243912728705-p_e.jpg",
+    "ZPID": "79795713"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3685-Mandeville-Canyon-Rd-Los-Angeles-CA-90049/82873960_zpid/",
+    "Address": "3685 Mandeville Canyon Rd, Los Angeles, CA 90049",
+    "Price": "$3,995,000",
+    "Beds": 4,
+    "Baths": 5,
+    "Area": 5267,
+    "Image": "https://photos.zillowstatic.com/fp/c8e6c17dd774c6e30e53da778f793819-p_e.jpg",
+    "ZPID": "82873960"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7064-La-Presa-Dr-Los-Angeles-CA-90068/20793677_zpid/",
+    "Address": "7064 La Presa Dr, Los Angeles, CA 90068",
+    "Price": "$4,495,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 4198,
+    "Image": "https://photos.zillowstatic.com/fp/686881df4899b8f086a0abc2f109cd97-p_e.jpg",
+    "ZPID": "20793677"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/21943-Parthenia-St-Canoga-Park-CA-91304/51576833_zpid/",
+    "Address": "21943 Parthenia St, Canoga Park, CA 91304",
+    "Price": "$995,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1795,
+    "Image": "https://photos.zillowstatic.com/fp/7e143eda20b0a0ac76d976eb408d5bec-p_e.jpg",
+    "ZPID": "51576833"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/11120-Queensland-St-UNIT-H57-Los-Angeles-CA-90034/20459687_zpid/",
+    "Address": "11120 Queensland St UNIT H57, Los Angeles, CA 90034",
+    "Price": "$495,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 917,
+    "Image": "https://photos.zillowstatic.com/fp/c259f8651c4a56e46cca23bb2c84331a-p_e.jpg",
+    "ZPID": "20459687"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1546-W-30th-St-Los-Angeles-CA-90007/20582468_zpid/",
+    "Address": "1546 W 30th St, Los Angeles, CA 90007",
+    "Price": "$555,000",
+    "Beds": 3,
+    "Baths": 1,
+    "Area": 975,
+    "Image": "https://photos.zillowstatic.com/fp/2504cc0d18eb4ceb4512925e4db8dea2-p_e.jpg",
+    "ZPID": "20582468"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16753-Magnolia-Blvd-Encino-CA-91436/19980439_zpid/",
+    "Address": "16753 Magnolia Blvd, Encino, CA 91436",
+    "Price": "$1,150,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1534,
+    "Image": "https://photos.zillowstatic.com/fp/07c58800ddb61f1433000f7308b50b51-p_e.jpg",
+    "ZPID": "19980439"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3305-Montclair-St-Los-Angeles-CA-90018/20591052_zpid/",
+    "Address": "3305 Montclair St, Los Angeles, CA 90018",
+    "Price": "$1,299,995",
+    "Beds": 5,
+    "Baths": 3,
+    "Area": 1960,
+    "Image": "https://photos.zillowstatic.com/fp/b905af9807578763aa644003526b9a8d-p_e.jpg",
+    "ZPID": "20591052"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5132-Lindley-Ave-Encino-CA-91316/19949310_zpid/",
+    "Address": "5132 Lindley Ave, Encino, CA 91316",
+    "Price": "$2,850,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 4276,
+    "Image": "https://photos.zillowstatic.com/fp/98ef0a4023585f39f6485693d1477584-p_e.jpg",
+    "ZPID": "19949310"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13120-Bradley-Ave-SPACE-43-Sylmar-CA-91342/136687104_zpid/",
+    "Address": "13120 Bradley Ave SPACE 43, Sylmar, CA 91342",
+    "Price": "$169,900",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1040,
+    "Image": "https://photos.zillowstatic.com/fp/1c49b364c4e0e71e3f81d5be46b03042-p_e.jpg",
+    "ZPID": "136687104"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2431-S-Holt-Ave-Los-Angeles-CA-90034/20490672_zpid/",
+    "Address": "2431 S Holt Ave, Los Angeles, CA 90034",
+    "Price": "$1,450,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1616,
+    "Image": "https://photos.zillowstatic.com/fp/9d3077bc33c6f5a45b161d9b6fe874e7-p_e.jpg",
+    "ZPID": "20490672"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1930-Kemper-St-Los-Angeles-CA-90065/20757195_zpid/",
+    "Address": "1930 Kemper St, Los Angeles, CA 90065",
+    "Price": "$1,395,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1885,
+    "Image": "https://photos.zillowstatic.com/fp/0dacd215a2df2fe65fd49a67bfbf2121-p_e.jpg",
+    "ZPID": "20757195"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16187-Royal-Oak-Rd-Encino-CA-91436/19992702_zpid/",
+    "Address": "16187 Royal Oak Rd, Encino, CA 91436",
+    "Price": "$29,995,000",
+    "Beds": 8,
+    "Baths": 11,
+    "Area": 19766,
+    "Image": "https://photos.zillowstatic.com/fp/091535838614b94d2c1363cc11fe6520-p_e.jpg",
+    "ZPID": "19992702"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16900-Mayall-St-North-Hills-CA-91343/20148619_zpid/",
+    "Address": "16900 Mayall St, North Hills, CA 91343",
+    "Price": "$1,385,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2470,
+    "Image": "https://photos.zillowstatic.com/fp/8efbc039e389bb8029364f55e35e330e-p_e.jpg",
+    "ZPID": "20148619"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14715-Saticoy-St-UNIT-8-Van-Nuys-CA-91405/68985517_zpid/",
+    "Address": "14715 Saticoy St UNIT 8, Van Nuys, CA 91405",
+    "Price": "$489,900",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1090,
+    "Image": "https://photos.zillowstatic.com/fp/e0b0c7db9e34ec01b565773abd0a23c5-p_e.jpg",
+    "ZPID": "68985517"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16534-Bosque-Dr-Encino-CA-91436/19994302_zpid/",
+    "Address": "16534 Bosque Dr, Encino, CA 91436",
+    "Price": "$2,249,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2809,
+    "Image": "https://photos.zillowstatic.com/fp/8ae8c28ca774e83819e7992ce33e8284-p_e.jpg",
+    "ZPID": "19994302"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7426-Mulholland-Dr-Los-Angeles-CA-90046/20802577_zpid/",
+    "Address": "7426 Mulholland Dr, Los Angeles, CA 90046",
+    "Price": "$1,599,900",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1781,
+    "Image": "https://photos.zillowstatic.com/fp/bbc193cca53013644039fa65672043d0-p_e.jpg",
+    "ZPID": "20802577"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5920-Kentland-Ave-Woodland-Hills-CA-91367/19878506_zpid/",
+    "Address": "5920 Kentland Ave, Woodland Hills, CA 91367",
+    "Price": "$2,095,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 3098,
+    "Image": "https://photos.zillowstatic.com/fp/4dd2d449ef216a2306a104aa8fa48a58-p_e.jpg",
+    "ZPID": "19878506"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/415-Campdell-St-Playa-Del-Rey-CA-90293/20386317_zpid/",
+    "Address": "415 Campdell St, Playa Del Rey, CA 90293",
+    "Price": "$1,329,000",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1355,
+    "Image": "https://photos.zillowstatic.com/fp/fd98267238c6747fbd314f53df7781cd-p_e.jpg",
+    "ZPID": "20386317"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2100-Stratford-Cir-Los-Angeles-CA-90077/95552407_zpid/",
+    "Address": "2100 Stratford Cir, Los Angeles, CA 90077",
+    "Price": "$39,900,000",
+    "Beds": 8,
+    "Baths": 12,
+    "Area": 17254,
+    "Image": "https://photos.zillowstatic.com/fp/882fb563dca99327abb92197ee5f74af-p_e.jpg",
+    "ZPID": "95552407"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3850-Glenalbyn-Dr-Los-Angeles-CA-90065/20755492_zpid/",
+    "Address": "3850 Glenalbyn Dr, Los Angeles, CA 90065",
+    "Price": "$1,995,000",
+    "Beds": 5,
+    "Baths": 7,
+    "Area": 2699,
+    "Image": "https://photos.zillowstatic.com/fp/f3d33a142def93df22b73fe147eede81-p_e.jpg",
+    "ZPID": "20755492"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/19040-Celtic-St-Porter-Ranch-CA-91326/20161841_zpid/",
+    "Address": "19040 Celtic St, Porter Ranch, CA 91326",
+    "Price": "$1,399,000",
+    "Beds": 5,
+    "Baths": 4,
+    "Area": 2154,
+    "Image": "https://photos.zillowstatic.com/fp/ed5d9c68d27c0e056c8c761c8479fdb9-p_e.jpg",
+    "ZPID": "20161841"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2586-Lake-View-Ave-Los-Angeles-CA-90039/20752027_zpid/",
+    "Address": "2586 Lake View Ave, Los Angeles, CA 90039",
+    "Price": "$999,990",
+    "Beds": 4,
+    "Baths": 2,
+    "Area": 1536,
+    "Image": "https://photos.zillowstatic.com/fp/d91a16852a522b02e12469aa83d066ca-p_e.jpg",
+    "ZPID": "20752027"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/360-S-Anita-Ave-Los-Angeles-CA-90049/20538043_zpid/",
+    "Address": "360 S Anita Ave, Los Angeles, CA 90049",
+    "Price": "$9,250,000",
+    "Beds": 4,
+    "Baths": 7,
+    "Area": 6592,
+    "Image": "https://photos.zillowstatic.com/fp/0379efee1e713e9039adc4739fe94119-p_e.jpg",
+    "ZPID": "20538043"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2603-W-Avenue-30-Los-Angeles-CA-90065/20757942_zpid/",
+    "Address": "2603 W Avenue 30, Los Angeles, CA 90065",
+    "Price": "$1,395,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 1379,
+    "Image": "https://photos.zillowstatic.com/fp/80a7b878a641c472e1ddbaac2543e430-p_e.jpg",
+    "ZPID": "20757942"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5747-3rd-Ave-Los-Angeles-CA-90043/20564326_zpid/",
+    "Address": "5747 3rd Ave, Los Angeles, CA 90043",
+    "Price": "$499,900",
+    "Beds": 4,
+    "Baths": 1,
+    "Area": 2093,
+    "Image": "https://photos.zillowstatic.com/fp/79d4e0a1bda385091beb08701662ef76-p_e.jpg",
+    "ZPID": "20564326"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/4402-Ledge-Ave-Toluca-Lake-CA-91602/95667879_zpid/",
+    "Address": "4402 Ledge Ave, Toluca Lake, CA 91602",
+    "Price": "$4,095,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 4531,
+    "Image": "https://photos.zillowstatic.com/fp/0feb913b8cbc178117b89fae80c8fb4e-p_e.jpg",
+    "ZPID": "95667879"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/3155-Stone-Oak-Dr-Los-Angeles-CA-90049/20558449_zpid/",
+    "Address": "3155 Stone Oak Dr, Los Angeles, CA 90049",
+    "Price": "$6,495,000",
+    "Beds": 7,
+    "Baths": 9,
+    "Area": 9085,
+    "Image": "https://photos.zillowstatic.com/fp/28d7d72119d6a894f084156e7fd0c23a-p_e.jpg",
+    "ZPID": "20558449"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/13050-Dronfield-Ave-APT-21-Sylmar-CA-91342/20073439_zpid/",
+    "Address": "13050 Dronfield Ave APT 21, Sylmar, CA 91342",
+    "Price": "$315,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1039,
+    "Image": "https://photos.zillowstatic.com/fp/dee4402f6c79df0e8af305fa1bc74817-p_e.jpg",
+    "ZPID": "20073439"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/623-N-Sycamore-Ave-Los-Angeles-CA-90036/458785694_zpid/",
+    "Address": "623 N Sycamore Ave, Los Angeles, CA 90036",
+    "Price": "$844,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1108,
+    "Image": "https://photos.zillowstatic.com/fp/da997312215fb3b97f99a0f2a12fc02e-p_e.jpg",
+    "ZPID": "458785694"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/5814-7th-Ave-Los-Angeles-CA-90043/20326161_zpid/",
+    "Address": "5814 7th Ave, Los Angeles, CA 90043",
+    "Price": "$699,000",
+    "Beds": 2,
+    "Baths": 1,
+    "Area": 992,
+    "Image": "https://photos.zillowstatic.com/fp/3b308dd34a8b2e9cc2049d79b7c2ac47-p_e.jpg",
+    "ZPID": "20326161"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6162-Annan-Way-Los-Angeles-CA-90042/20769459_zpid/",
+    "Address": "6162 Annan Way, Los Angeles, CA 90042",
+    "Price": "$1,199,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1352,
+    "Image": "https://photos.zillowstatic.com/fp/5bbb610a2473eca747c825d8e3c814f9-p_e.jpg",
+    "ZPID": "20769459"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/2731-Hutton-Dr-Beverly-Hills-CA-90210/20533259_zpid/",
+    "Address": "2731 Hutton Dr, Beverly Hills, CA 90210",
+    "Price": "$7,495,000",
+    "Beds": 5,
+    "Baths": 6,
+    "Area": 5691,
+    "Image": "https://photos.zillowstatic.com/fp/8b77a502c8725c00bd7084a294f82924-p_e.jpg",
+    "ZPID": "20533259"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10553-McBroom-St-Sunland-CA-91040/20082296_zpid/",
+    "Address": "10553 McBroom St, Sunland, CA 91040",
+    "Price": "$850,000",
+    "Beds": 3,
+    "Baths": 2,
+    "Area": 1606,
+    "Image": "https://photos.zillowstatic.com/fp/1b51cdeff7384f5c6edc224fec31455f-p_e.jpg",
+    "ZPID": "20082296"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/10825-Chalon-Rd-Los-Angeles-CA-90077/68987869_zpid/",
+    "Address": "10825 Chalon Rd, Los Angeles, CA 90077",
+    "Price": "$7,689,000",
+    "Beds": 4,
+    "Baths": 6,
+    "Area": 4906,
+    "Image": "https://photos.zillowstatic.com/fp/b5bfef40823e4ba88aef7548c5bfa7d7-p_e.jpg",
+    "ZPID": "68987869"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/7141-Senalda-Rd-Los-Angeles-CA-90068/20803612_zpid/",
+    "Address": "7141 Senalda Rd, Los Angeles, CA 90068",
+    "Price": "$8,995,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 6748,
+    "Image": "https://photos.zillowstatic.com/fp/46dd1e4de54ebe472f8ba70c1f39376e-p_e.jpg",
+    "ZPID": "20803612"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/547-28th-Ave-Venice-CA-90291/20444807_zpid/",
+    "Address": "547 28th Ave, Venice, CA 90291",
+    "Price": "$2,350,000",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1041,
+    "Image": "https://photos.zillowstatic.com/fp/f900eab747d028a767d93de10981bc7b-p_e.jpg",
+    "ZPID": "20444807"
+  },
+  {
+    "URL": "https://www.zillow.com/b/1130-s-flower-st-los-angeles-ca-5Xkbb3/",
+    "Address": "1130 S Flower St, Los Angeles, CA",
+    "Price": "From $574,000",
+    "Image": "https://photos.zillowstatic.com/fp/a608c6cc8fd31f3642909d1862e961b1-p_e.jpg"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/14535-Margate-St-UNIT-13-Sherman-Oaks-CA-91411/79796097_zpid/",
+    "Address": "14535 Margate St UNIT 13, Sherman Oaks, CA 91411",
+    "Price": "$879,000",
+    "Beds": 3,
+    "Baths": 3,
+    "Area": 2096,
+    "Image": "https://photos.zillowstatic.com/fp/1ea460d5eca4f315490ecaba7bd3e109-p_e.jpg",
+    "ZPID": "79796097"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/16749-Addison-St-Encino-CA-91436/19979980_zpid/",
+    "Address": "16749 Addison St, Encino, CA 91436",
+    "Price": "$4,450,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 5015,
+    "Image": "https://photos.zillowstatic.com/fp/1c0354f93fae1224cb5e516f520a294b-p_e.jpg",
+    "ZPID": "19979980"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1939-Stradella-Rd-Los-Angeles-CA-90077/20530296_zpid/",
+    "Address": "1939 Stradella Rd, Los Angeles, CA 90077",
+    "Price": "$5,500,000",
+    "Beds": 6,
+    "Baths": 9,
+    "Area": 8562,
+    "Image": "https://photos.zillowstatic.com/fp/c0468fabd9cf1ef7bd41fac2f81fe3e9-p_e.jpg",
+    "ZPID": "20530296"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9904-Kip-Dr-Beverly-Hills-CA-90210/20523467_zpid/",
+    "Address": "9904 Kip Dr, Beverly Hills, CA 90210",
+    "Price": "$79,000,000",
+    "Beds": 10,
+    "Baths": 22,
+    "Area": 24757,
+    "Image": "https://photos.zillowstatic.com/fp/c62a94a1cbc3875b9cef4dd26db249be-p_e.jpg",
+    "ZPID": "20523467"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/9314-Lloydcrest-Dr-Beverly-Hills-CA-90210/20522935_zpid/",
+    "Address": "9314 Lloydcrest Dr, Beverly Hills, CA 90210",
+    "Price": "$3,299,000",
+    "Beds": 5,
+    "Baths": 5,
+    "Area": 4100,
+    "Image": "https://photos.zillowstatic.com/fp/a6e93413b84c1c218fb45cfa368eb3cd-p_e.jpg",
+    "ZPID": "20522935"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/8741-Darby-Ave-SUITE-16-Northridge-CA-91325/20178051_zpid/",
+    "Address": "8741 Darby Ave SUITE 16, Northridge, CA 91325",
+    "Price": "$569,000",
+    "Beds": 2,
+    "Baths": 3,
+    "Area": 1292,
+    "Image": "https://photos.zillowstatic.com/fp/97e6c909e29dfe658b3b3fedc855c1ab-p_e.jpg",
+    "ZPID": "20178051"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12420-Milbank-St-Studio-City-CA-91604/20024560_zpid/",
+    "Address": "12420 Milbank St, Studio City, CA 91604",
+    "Price": "$4,274,000",
+    "Beds": 6,
+    "Baths": 7,
+    "Area": 4972,
+    "Image": "https://photos.zillowstatic.com/fp/e75be77567b25bf57a31ca387cfe2d2b-p_e.jpg",
+    "ZPID": "20024560"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/6703-Corie-Ln-West-Hills-CA-91307/19872357_zpid/",
+    "Address": "6703 Corie Ln, West Hills, CA 91307",
+    "Price": "$1,249,000",
+    "Beds": 4,
+    "Baths": 4,
+    "Area": 2525,
+    "Image": "https://photos.zillowstatic.com/fp/e723fd2d0a7e81fcbcdbfd752fc2ce53-p_e.jpg",
+    "ZPID": "19872357"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/12745-Hanover-St-Los-Angeles-CA-90049/20537879_zpid/",
+    "Address": "12745 Hanover St, Los Angeles, CA 90049",
+    "Price": "$38,000,000",
+    "Beds": 6,
+    "Baths": 12,
+    "Area": 12000,
+    "Image": "https://photos.zillowstatic.com/fp/ace333de50e8af9755f2f1cc145bea8f-p_e.jpg",
+    "ZPID": "20537879"
+  },
+  {
+    "URL": "https://www.zillow.com/homedetails/1189-Crenshaw-Blvd-Los-Angeles-CA-90019/20606286_zpid/",
+    "Address": "1189 Crenshaw Blvd, Los Angeles, CA 90019",
+    "Price": "$599,900",
+    "Beds": 2,
+    "Baths": 2,
+    "Area": 1050,
+    "Image": "https://photos.zillowstatic.com/fp/362174d07d3014dcdcf9c5d12e40e2ae-p_e.jpg",
+    "ZPID": "20606286"
+  }
+]
